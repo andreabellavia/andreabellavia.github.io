@@ -10,7 +10,6 @@ I am also interested in quantile regression techniques for time-to-event outcome
 
 In this page you will find the link to several talks and presentations related to my current and past research.
 
-```markdown
 
  - Integrating methods for environmental mixtures in mediation analysis, SER talk, June 2018
  
@@ -30,22 +29,19 @@ In this page you will find the link to several talks and presentations related t
  
  - Quantile Regression in Survival Analysis, March 2015
 
-```
+
 
 
 ### Teaching
 
-```markdown
 
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis
 - Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org)
 
-```
 
 ### Publications
 
-```markdown
 
 **2018**
 
@@ -144,5 +140,5 @@ In this page you will find the link to several talks and presentations related t
 1. Bellavia A, Urch B, Speck M, Brook RD, Scott JA, Albetti B, Behbod B, North M, Valeri L, Bertazzi PA, Silverman F, Gold D, Baccarelli AA. DNA hypomethylation, ambient particulate matter, and increased blood pressure: findings from controlled human exposure experiments. J Am Heart Assoc.
 
 [Link](url) and ![Image](src)
-```
+
 
