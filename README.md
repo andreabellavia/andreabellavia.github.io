@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Andrea Bellavia
+
+I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/) at the Harvard T.H. Chan School of Public Health.
+
+My research, primarily conducted within the Dr. James-Todd research group, focuses on a variety of empirical topics in the field of environmental reproductive epidemiology, and on methodological topics such as the development and application of statistical methods for environmental disparities, chemical mixtures, and mediation and interaction analysis.
+
+I am also interested in quantile regression techniques for time-to-event outcomes, which was the topic of my doctoral thesis. 
 
 You can use the [editor on GitHub](https://github.com/andreabellavia/andreabellavia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
