@@ -8,7 +8,9 @@ I am also interested in quantile regression techniques for time-to-event outcome
 
 ## Contact
 <abellavi@hsph.harvard.edu>
+
 [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
+
 ## Research
 
 In this page you will find the link to several talks and presentations related to my current and past research.
