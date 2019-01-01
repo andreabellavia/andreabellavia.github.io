@@ -1,4 +1,4 @@
-## Intro
+## About
 
 I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/) at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
 
@@ -6,6 +6,10 @@ My research, primarily conducted within the [Dr. James-Todd research group](http
 
 I am also interested in quantile regression techniques for time-to-event outcomes, which was the topic of my [doctoral thesis](https://openarchive.ki.se/xmlui/handle/10616/44821). 
 
+## Contact
+<abellavi@hsph.harvard.edu>
+
+[@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Research
 
 In this page you will find the link to several talks and presentations related to my current and past research.
@@ -138,3 +142,5 @@ In this page you will find the link to several talks and presentations related t
 - 2\. **Bellavia A**, Larsson SC, Bottai M, Wolk A, Orsini N. [Fruit and vegetable consumption and all-cause mortality: a dose-response analysis.](https://www.ncbi.nlm.nih.gov/pubmed/23803880) Am J Clin Nutr.
 
 - 1\. **Bellavia A**, Urch B, Speck M, Brook RD, Scott JA, Albetti B, Behbod B, North M, Valeri L, Bertazzi PA, Silverman F, Gold D, Baccarelli AA. [DNA hypomethylation, ambient particulate matter, and increased blood pressure: findings from controlled human exposure experiments.](https://www.ncbi.nlm.nih.gov/pubmed/23782920) J Am Heart Assoc.
+
+
