@@ -50,6 +50,8 @@ In this page you will find the link to several talks and presentations related t
 
 **2018**
 
+- 43\. Williams PL, **Bellavia A**, Korrick S, Burns J, Lee M, Sergeyev O, Hauser R. [Blood Lead Levels and Timing of Male Sexual Maturity: A Longitudinal Study of Russian Boys.] Environment International (In press)
+
 - 42\. **Bellavia A**, James-Todd T, Williams PL. [Approaches for incorporating environmental mixtures as mediators in mediation analysis.](https://www.sciencedirect.com/science/article/pii/S016041201832021X) Environment International
 
 - 41\. **Bellavia A**, Centorrino F, Jackson JW, Fitzmaurice G, Valeri L. [The role of weight gain in explaining the effects of antipsychotic drugs on positive and negative symptoms: an analysis of the CATIE schizophrenia trial.](https://www.ncbi.nlm.nih.gov/pubmed/30584025) Schizophrenia Research
