@@ -13,30 +13,19 @@ I am also interested in quantile regression techniques for time-to-event outcome
 
 ## Research
 
-In this page you will find the link to several talks and presentations related to my current and past research.
+In this page you will find the link to few talks and presentations related to my current and past research.
 
-
- - <a href="bellavia_usdohad2018.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, UsDOHaD, October 2018, SER talk, June 2018
+ - <a href="SER_talk.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, SER, June 2018
  
  - <a href="bellavia_usdohad2018.pdf">Quantifying the contribution of environmental factors in health disparities</a>, UsDOHaD, October 2018
  
- - Statistical approaches for environmental mixtures, June 2018
+ - <a href="milan_presentation.pdf">Statistical approaches for environmental mixtures</a>, Milan, June 2018
  
- - Decomposition of the Total Effect with Multiple Mediators and Interactions, March 2017
+ - <a href="enar_bellavia.pdf">Decomposition of the Total Effect with Multiple Mediators and Interactions</a>, ENAR, March 2017
  
- - Mediation and Interaction analysis, May 2017
+ - <a href="ARC_interaction_handout.pdf">Additive Interaction in Survival Analysis</a>, Stockholm, March 2015
  
- - Mediation in Health Disparity Research, October 2016 Workshop
- 
- - Mediation and Interaction in Survival Analysis, May 2016
- 
- - Additive Interaction in Survival Analysis, March 2015
- 
- - Evaluating Survival Percentiles, March 2015
- 
- - Quantile Regression in Survival Analysis, March 2015
-
-
+ - <a href="bicocca.pdf">Quantile Regression in Survival Analysis</a>, Milan, March 2015
 
 
 ## Teaching
