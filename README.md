@@ -1,6 +1,6 @@
 ## About
 
-I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), and a teaching faculty member of the Department of [Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
+I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), and a teaching faculty member of the Department of [Biostatistics](https://www.hsph.harvard.edu/biostatistics/), at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
 
 My main research focus is the development and application of statistical methods for environmental disparities, chemical mixtures, and mediation and interaction analysis. As an applied statistician I am involved in several projects in environmental epidemiology, primarely working within the research groups of [Tamarra James-Todd](https://projects.iq.harvard.edu/james-toddlab) and [Marc Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/).
 
@@ -13,7 +13,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
-These are some talks and presentations covering a wide range of my current research activities:
+These are some talks and presentations covering several of my current and past research activities:
 
  - <a href="SER_talk.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, SER, June 2018
  
@@ -23,14 +23,14 @@ These are some talks and presentations covering a wide range of my current resea
  
  - <a href="enar_bellavia.pdf">Decomposition of the Total Effect with Multiple Mediators and Interactions</a>, ENAR, March 2017
  
- - <a href="ARC_interaction_handout.pdf">Additive Interaction in Survival Analysis</a>, Stockholm, March 2015
+ - <a href="arc_interaction_handout.pdf">Additive Interaction in Survival Analysis</a>, Stockholm, March 2015
  
  - <a href="bicocca.pdf">Quantile Regression in Survival Analysis</a>, Milan, March 2015
 
 
 ## Teaching
 
-I am currently the primary instructor for the following courses:
+I am the primary instructor of the following courses:
 
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis
 - Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
