@@ -11,6 +11,8 @@ I am also interested in quantile regression techniques for time-to-event outcome
 
 [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
+<a href="bellavia_usdohad2018.pdf">Download File</a>
+
 ## Research
 
 In this page you will find the link to several talks and presentations related to my current and past research.
