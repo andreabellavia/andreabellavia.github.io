@@ -11,14 +11,14 @@ I am also interested in quantile regression techniques for time-to-event outcome
 
 [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
-<a href="bellavia_usdohad2018.pdf">Download File</a>
-
 ## Research
 
 In this page you will find the link to several talks and presentations related to my current and past research.
 
 
- - Integrating methods for environmental mixtures in mediation analysis, SER talk, June 2018
+ - <a href="bellavia_usdohad2018.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, UsDOHaD, October 2018, SER talk, June 2018
+ 
+ - <a href="bellavia_usdohad2018.pdf">Quantifying the contribution of wnvuironmental factors in health disparities</a>, UsDOHaD, October 2018
  
  - Statistical approaches for environmental mixtures, June 2018
  
