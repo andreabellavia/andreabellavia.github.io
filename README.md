@@ -1,19 +1,19 @@
 ## About
 
-I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/) at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
+I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), and a teaching faculty member of the Department of [Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
 
-My research, primarily conducted within the [Dr. James-Todd research group](https://projects.iq.harvard.edu/james-toddlab), focuses on a variety of empirical topics in the field of environmental reproductive epidemiology, and on methodological topics such as the development and application of statistical methods for environmental disparities, chemical mixtures, and mediation and interaction analysis.
+My main research focus is the development and application of statistical methods for environmental disparities, chemical mixtures, and mediation and interaction analysis. As an applied statistician I am involved in several projects in environmental epidemiology, primarely working within the research groups of [Tamarra James-Todd](https://projects.iq.harvard.edu/james-toddlab) and [Marc Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/).
 
 I am also interested in quantile regression techniques for time-to-event outcomes, which was the topic of my [doctoral thesis](https://openarchive.ki.se/xmlui/handle/10616/44821). 
 
 ## Contact
-<abellavi@hsph.harvard.edu>
+Email: <abellavi@hsph.harvard.edu>
 
-[@andreabellavia](https://twitter.com/andreabellavia?lang=en)
+Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
-In this page you will find the link to few talks and presentations related to my current and past research.
+These are some talks and presentations covering a wide range of my current research activities:
 
  - <a href="SER_talk.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, SER, June 2018
  
@@ -30,6 +30,7 @@ In this page you will find the link to few talks and presentations related to my
 
 ## Teaching
 
+I am currently the primary instructor for the following courses:
 
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis
 - Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
@@ -38,6 +39,7 @@ In this page you will find the link to few talks and presentations related to my
 
 ## Publications
 
+Here is a full list of my scientific publications:
 
 **2018**
 
