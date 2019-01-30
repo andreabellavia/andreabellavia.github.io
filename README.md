@@ -41,9 +41,11 @@ I am the primary instructor of the following courses:
 
 Here is a full list of my scientific publications:
 
-**2018**
+**2019**
 
 - 43\. Williams PL, **Bellavia A**, Korrick S, Burns J, Lee M, Sergeyev O, Hauser R. Blood Lead Levels and Timing of Male Sexual Maturity: A Longitudinal Study of Russian Boys. Environment International (In press)
+
+**2018**
 
 - 42\. **Bellavia A**, James-Todd T, Williams PL. [Approaches for incorporating environmental mixtures as mediators in mediation analysis.](https://www.sciencedirect.com/science/article/pii/S016041201832021X) Environment International
 
