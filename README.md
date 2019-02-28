@@ -43,7 +43,7 @@ Here is a full list of my scientific publications:
 
 **2019**
 
-- 44\. Mínguez-Alarcón L, Messerlian C, **Bellavia A**, Gaskins AJ, Chiu YH, Ford JB, Acevedo AR, Petrozza J, Calafat AM, Hauser R, Williams PL. Urinary concentrations of bisphenol A, parabens and phthalate metabolite mixtures in relation to reproductive success among women undergoing in vitro fertilization. Environment International (In press)
+- 44\. Mínguez-Alarcón L, Messerlian C, **Bellavia A**, Gaskins AJ, Chiu YH, Ford JB, Acevedo AR, Petrozza J, Calafat AM, Hauser R, Williams PL. [Urinary concentrations of bisphenol A, parabens and phthalate metabolite mixtures in relation to reproductive success among women undergoing in vitro fertilization.](https://www.sciencedirect.com/science/article/pii/S0160412018323729) Environment International
 
 - 43\. Williams PL, **Bellavia A**, Korrick S, Burns J, Lee M, Sergeyev O, Hauser R. [Blood Lead Levels and Timing of Male Sexual Maturity: A Longitudinal Study of Russian Boys.](https://www.ncbi.nlm.nih.gov/pubmed/30769180) Environment International
 
