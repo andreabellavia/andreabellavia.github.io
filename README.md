@@ -43,6 +43,8 @@ Here is a full list of my scientific publications:
 
 **2019**
 
+- 45\. Shah RM, Hirji SA, Kiehm S, Goel S, Yazdchi F, **Bellavia A**, Zogg C, Pelletier MP, Shekar P, Kaneko T. [Debunking the July Effect in Cardiac Surgery: A National Analysis of Over 470,000 Procedures.] Annals of Thoracic Surgery - In press
+
 - 44\. Mínguez-Alarcón L, Messerlian C, **Bellavia A**, Gaskins AJ, Chiu YH, Ford JB, Acevedo AR, Petrozza J, Calafat AM, Hauser R, Williams PL. [Urinary concentrations of bisphenol A, parabens and phthalate metabolite mixtures in relation to reproductive success among women undergoing in vitro fertilization.](https://www.sciencedirect.com/science/article/pii/S0160412018323729) Environment International
 
 - 43\. Williams PL, **Bellavia A**, Korrick S, Burns J, Lee M, Sergeyev O, Hauser R. [Blood Lead Levels and Timing of Male Sexual Maturity: A Longitudinal Study of Russian Boys.](https://www.ncbi.nlm.nih.gov/pubmed/30769180) Environment International
