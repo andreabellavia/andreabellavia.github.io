@@ -43,6 +43,8 @@ Here is a full list of my scientific publications:
 
 **2019**
 
+-46\. **Bellavia A**, Mitro SD, Hauser R, James-Todd T. Paternal bias: the impact of not accounting for paternal confounders in reproductive epidemiological studies. American Journal of Obstetrics & Gynecology -  In press
+
 - 45\. Shah RM, Hirji SA, Kiehm S, Goel S, Yazdchi F, **Bellavia A**, Zogg C, Pelletier MP, Shekar P, Kaneko T. [Debunking the July Effect in Cardiac Surgery: A National Analysis of Over 470,000 Procedures.](https://www.annalsthoracicsurgery.org/article/S0003-4975(19)31013-6/abstract) Annals of Thoracic Surgery
 
 - 44\. Mínguez-Alarcón L, Messerlian C, **Bellavia A**, Gaskins AJ, Chiu YH, Ford JB, Acevedo AR, Petrozza J, Calafat AM, Hauser R, Williams PL. [Urinary concentrations of bisphenol A, parabens and phthalate metabolite mixtures in relation to reproductive success among women undergoing in vitro fertilization.](https://www.sciencedirect.com/science/article/pii/S0160412018323729) Environment International
