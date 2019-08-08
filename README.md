@@ -43,7 +43,7 @@ Here is a full list of my scientific publications:
 
 **2019**
 
-- 47\. **Bellavia A**, Mitro SD, Hauser R, James-Todd T. Paternal bias: the impact of not accounting for paternal confounders in reproductive epidemiological studies. American Journal of Obstetrics & Gynecology -  In press
+- 47\. **Bellavia A**, Mitro SD, Hauser R, James-Todd T. [Paternal bias: the impact of not accounting for paternal confounders in reproductive epidemiological studies.](https://www.sciencedirect.com/science/article/pii/S0002937819310038?via%3Dihub) American Journal of Obstetrics & Gynecology
 
 - 46\. Shah RM, Hirji SA, Percy E, Landino S, Yazdchi F, McGurk S, **Bellavia A**, Pelletier MP, Shekar P, Kaneko T. Cardiac Surgery in Opioid Dependent Patients: An Analysis of 1.7 Million Surgeries. Annals of Thoracic Surgery - In press
 
