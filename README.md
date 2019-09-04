@@ -47,7 +47,7 @@ Here is a full list of my scientific publications:
 
 - 47\. **Bellavia A**, Mitro SD, Hauser R, James-Todd T. [Paternal bias: the impact of not accounting for paternal confounders in reproductive epidemiological studies.](https://www.sciencedirect.com/science/article/pii/S0002937819310038?via%3Dihub) American Journal of Obstetrics & Gynecology
 
-- 46\. Shah RM, Hirji SA, Percy E, Landino S, Yazdchi F, McGurk S, **Bellavia A**, Pelletier MP, Shekar P, Kaneko T. Cardiac Surgery in Opioid Dependent Patients: An Analysis of 1.7 Million Surgeries. Annals of Thoracic Surgery - In press
+- 46\. Shah RM, Hirji SA, Percy E, Landino S, Yazdchi F, McGurk S, **Bellavia A**, Pelletier MP, Shekar P, Kaneko T. [Cardiac Surgery in Opioid Dependent Patients: An Analysis of 1.7 Million Surgeries.](https://www.ncbi.nlm.nih.gov/pubmed/31479643) Annals of Thoracic Surgery
 
 - 45\. Shah RM, Hirji SA, Kiehm S, Goel S, Yazdchi F, **Bellavia A**, Zogg C, Pelletier MP, Shekar P, Kaneko T. [Debunking the July Effect in Cardiac Surgery: A National Analysis of Over 470,000 Procedures.](https://www.annalsthoracicsurgery.org/article/S0003-4975(19)31013-6/abstract) Annals of Thoracic Surgery
 
