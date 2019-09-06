@@ -43,6 +43,8 @@ Here is a full list of my scientific publications:
 
 **2019**
 
+- 49\. Li MC, Mínguez-Alarcón L, **Bellavia A**, Williams PL, James-Todd T, Hauser R, Chavarro JE, Chiu YH. Serum beta-carotene modifies the association between phthalate mixtures and insulin resistance: The National Health and Nutrition Examination Survey 2003-2006. Environmental Research - In press
+
 - 48\. **Bellavia A**, Minguez-Alarcon L, Ford JB, Keller M, Petrozza J, Williams PL, Hauser R, James-Todd T. [Association of self-reported personal care product use with blood glucose levels measured during pregnancy among women from a fertility clinic.](https://www.sciencedirect.com/science/article/pii/S0048969719338033?via%3Dihub) Science of the Total Environment
 
 - 47\. **Bellavia A**, Mitro SD, Hauser R, James-Todd T. [Paternal bias: the impact of not accounting for paternal confounders in reproductive epidemiological studies.](https://www.sciencedirect.com/science/article/pii/S0002937819310038?via%3Dihub) American Journal of Obstetrics & Gynecology
