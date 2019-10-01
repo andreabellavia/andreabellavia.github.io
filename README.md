@@ -43,7 +43,7 @@ Here is a full list of my scientific publications:
 
 **2019**
 
-- 50\. Donat-Vargas CL, **Bellavia A**, Berglund M, Glynn A, Wolk A, Akesson A. [ Cardiovascular and cancer mortality in relation to dietary polychlorinated biphenyls and marine polyunsaturated fatty acids: a nutritional-toxicological aspect of fish consumption.] Journal of Internal Medicine - In press
+- 50\. Donat-Vargas CL, **Bellavia A**, Berglund M, Glynn A, Wolk A, Akesson A. Cardiovascular and cancer mortality in relation to dietary polychlorinated biphenyls and marine polyunsaturated fatty acids: a nutritional-toxicological aspect of fish consumption. Journal of Internal Medicine - In press
 
 - 49\. Li MC, Mínguez-Alarcón L, **Bellavia A**, Williams PL, James-Todd T, Hauser R, Chavarro JE, Chiu YH. [Serum beta-carotene modifies the association between phthalate mixtures and insulin resistance: The National Health and Nutrition Examination Survey 2003-2006.](https://www.ncbi.nlm.nih.gov/pubmed/31521963) Environmental Research
 
