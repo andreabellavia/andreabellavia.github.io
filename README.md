@@ -43,6 +43,8 @@ Here is a full list of my scientific publications:
 
 **2019**
 
+- 51\. Arce DY, **Bellavia A**, Cantonwine DE, Napoli OJ, Meeker JD, James-Todd T, McElrath TF, Tsen LC. [Average and time-specific maternal prenatal inflammatory biomarkers and the risk of labor epidural associated fever.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222958) PLoS ONE
+
 - 50\. Donat-Vargas C, **Bellavia A**, Berglund M, Glynn A, Wolk A, Akesson A. [Cardiovascular and cancer mortality in relation to dietary polychlorinated biphenyls and marine polyunsaturated fatty acids: a nutritional-toxicological aspect of fish consumption.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joim.12995) Journal of Internal Medicine
 
 - 49\. Li MC, Mínguez-Alarcón L, **Bellavia A**, Williams PL, James-Todd T, Hauser R, Chavarro JE, Chiu YH. [Serum beta-carotene modifies the association between phthalate mixtures and insulin resistance: The National Health and Nutrition Examination Survey 2003-2006.](https://www.ncbi.nlm.nih.gov/pubmed/31521963) Environmental Research
