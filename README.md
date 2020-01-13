@@ -41,9 +41,11 @@ I am the primary instructor of the following courses:
 
 Here is a full list of my scientific publications:
 
-**2019**
+**2020**
 
 - 52\. **Bellavia A**, Rotem RS, Dickerson AS, Hansen J, Gredal O, Weisskopf MG. The use of Logic regression in epidemiologic studies to investigate multiple binary exposures: an example of occupation history and amyotrophic lateral sclerosis. Epidemiologic Methods (In press)
+
+**2019**
 
 - 51\. Arce DY, **Bellavia A**, Cantonwine DE, Napoli OJ, Meeker JD, James-Todd T, McElrath TF, Tsen LC. [Average and time-specific maternal prenatal inflammatory biomarkers and the risk of labor epidural associated fever.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222958) PLoS ONE
 
