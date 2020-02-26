@@ -43,7 +43,7 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 52\. **Bellavia A**, Rotem RS, Dickerson AS, Hansen J, Gredal O, Weisskopf MG. The use of Logic regression in epidemiologic studies to investigate multiple binary exposures: an example of occupation history and amyotrophic lateral sclerosis. Epidemiologic Methods (In press)
+- 52\. **Bellavia A**, Rotem RS, Dickerson AS, Hansen J, Gredal O, Weisskopf MG. [The use of Logic regression in epidemiologic studies to investigate multiple binary exposures: an example of occupation history and amyotrophic lateral sclerosis.](https://www.degruyter.com/view/j/em.2020.9.issue-1/em-2019-0032/em-2019-0032.xml?format=INT) Epidemiologic Methods
 
 **2019**
 
