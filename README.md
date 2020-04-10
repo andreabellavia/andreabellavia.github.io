@@ -43,6 +43,12 @@ Here is a full list of my scientific publications:
 
 **2020**
 
+-55\. Wang Z, Mínguez-Alarcón L, Williams PL, **Bellavia A**, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, James-Todd T. Perinatal urinary benzophenone-3 concentrations and glucose levels among women from a fertility clinic. Environmental health - In press
+
+-54\. Berra L, Lei C, Su B, Dong H, Fakhr BS, Grassi LG, Di Fenza R, Gianni S, Pinciroli R, Vassena E, Araujo Morais CS,  **Bellavia A**, Spina S, Kacmarek R, Carrol R. [Protocol for a randomized controlled trial testing inhaled nitric oxide therapy in spontaneously breathing patients with COVID-19.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033522v1)(medRxiv preprint, not peer-reviewed)
+
+-53\. Lei C, Su B, Dong H, **Bellavia A**, Di Fenza R, Fakhr BS, Gianni S, Grassi LG, Kacmarek R, Araujo Morais CS, Pinciroli R, Vassena E, Berra L. [Protocol of a randomized controlled trial testing inhaled Nitric Oxide in mechanically ventilated patients with severe acute respiratory syndrome in COVID-19 (SARS-CoV-2).](https://www.medrxiv.org/content/10.1101/2020.03.09.20033530v1)(medRxiv preprint, not peer-reviewed)
+
 - 52\. **Bellavia A**, Rotem RS, Dickerson AS, Hansen J, Gredal O, Weisskopf MG. [The use of Logic regression in epidemiologic studies to investigate multiple binary exposures: an example of occupation history and amyotrophic lateral sclerosis.](https://www.degruyter.com/view/j/em.2020.9.issue-1/em-2019-0032/em-2019-0032.xml?format=INT) Epidemiologic Methods
 
 **2019**
