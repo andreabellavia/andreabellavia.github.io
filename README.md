@@ -15,7 +15,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 These are some talks and presentations covering several of my current and past research activities:
 
-- <a href="RSA_Bellavia.pdf">Evaluating complex interactions in environmental and occupational epidemiology, HSPH, December 2019
+- <a href="RSA_Bellavia.pdf">Evaluating complex interactions in environmental and occupational epidemiology</a>, HSPH, December 2019
 
  - <a href="SER_talk.pdf">Integrating methods for environmental mixtures in mediation analysis</a>, SER, June 2018
  
