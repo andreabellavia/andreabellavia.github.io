@@ -45,7 +45,9 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 55\. Wang Z, Mínguez-Alarcón L, Williams PL, **Bellavia A**, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, James-Todd T. Perinatal urinary benzophenone-3 concentrations and glucose levels among women from a fertility clinic. Environmental health - In press
+- 56\. Wang Z, Mínguez-Alarcón L, Williams PL, **Bellavia A**, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, James-Todd T. Perinatal urinary benzophenone-3 concentrations and glucose levels among women from a fertility clinic. Environmental health - In press
+
+- 55\. Gianni S, Fakhr BS, Araujo Morais CS, Di Fenza R, Larson G, Pinciroli R, Houle T, Mueller AL, **Bellavia A**, Kacmarek R, Carrol R, Berra L. [Nitric oxide gas inhalation to prevent COVID-2019 in healthcare providers.](https://www.medrxiv.org/content/10.1101/2020.04.05.20054544v1)(medRxiv preprint, not peer-reviewed)
 
 - 54\. Berra L, Lei C, Su B, Dong H, Fakhr BS, Grassi LG, Di Fenza R, Gianni S, Pinciroli R, Vassena E, Araujo Morais CS,  **Bellavia A**, Spina S, Kacmarek R, Carrol R. [Protocol for a randomized controlled trial testing inhaled nitric oxide therapy in spontaneously breathing patients with COVID-19.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033522v1)(medRxiv preprint, not peer-reviewed)
 
