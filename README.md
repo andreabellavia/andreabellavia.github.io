@@ -45,6 +45,8 @@ Here is a full list of my scientific publications:
 
 **2020**
 
+- 57\. Souter I, **Bellavia A**, Williams PL, Korevaar TIM, Meeker JD, Braun JM, de Poortere RA, Broeren MA, Ford JB, Calafat AM, Chavarro JE, Hauser R, Williams PL, Mínguez-Alarcón L. Urinary concentrations of phthalate metabolite mixtures in relation to serum biomarkers of thyroid function and autoimmunity among women from a fertility center. Environmental Health Perspectives (In press)
+
 - 56\. Wang Z, Mínguez-Alarcón L, Williams PL, **Bellavia A**, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, James-Todd T. Perinatal urinary benzophenone-3 concentrations and glucose levels among women from a fertility clinic. Environmental health - In press
 
 - 55\. Gianni S, Fakhr BS, Araujo Morais CS, Di Fenza R, Larson G, Pinciroli R, Houle T, Mueller AL, **Bellavia A**, Kacmarek R, Carrol R, Berra L. [Nitric oxide gas inhalation to prevent COVID-2019 in healthcare providers.](https://www.medrxiv.org/content/10.1101/2020.04.05.20054544v1)(medRxiv preprint, not peer-reviewed)
