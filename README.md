@@ -45,7 +45,9 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 57\. Souter I, **Bellavia A**, Williams PL, Korevaar TIM, Meeker JD, Braun JM, de Poortere RA, Broeren MA, Ford JB, Calafat AM, Chavarro JE, Hauser R, Williams PL, Mínguez-Alarcón L. Urinary concentrations of phthalate metabolite mixtures in relation to serum biomarkers of thyroid function and autoimmunity among women from a fertility center. Environmental Health Perspectives (In press)
+- 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017. the Journal of Perinatology - In press
+
+- 57\. Souter I, **Bellavia A**, Williams PL, Korevaar TIM, Meeker JD, Braun JM, de Poortere RA, Broeren MA, Ford JB, Calafat AM, Chavarro JE, Hauser R, Williams PL, Mínguez-Alarcón L. Urinary concentrations of phthalate metabolite mixtures in relation to serum biomarkers of thyroid function and autoimmunity among women from a fertility center. Environmental Health Perspectives - In press
 
 - 56\. Wang Z, Mínguez-Alarcón L, Williams PL, **Bellavia A**, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, James-Todd T. Perinatal urinary benzophenone-3 concentrations and glucose levels among women from a fertility clinic. Environmental health - In press
 
