@@ -45,7 +45,7 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. [Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017.](https://www.nature.com/articles/s41372-020-0698-x) the Journal of Perinatology 
+- 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. [Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017.](https://www.nature.com/articles/s41372-020-0698-x) Journal of Perinatology 
 
 - 57\. Souter I, **Bellavia A**, Williams PL, Korevaar TIM, Meeker JD, Braun JM, de Poortere RA, Broeren MA, Ford JB, Calafat AM, Chavarro JE, Hauser R, Williams PL, Mínguez-Alarcón L. [Urinary concentrations of phthalate metabolite mixtures in relation to serum biomarkers of thyroid function and autoimmunity among women from a fertility center.](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP6740) Environmental Health Perspectives
 
