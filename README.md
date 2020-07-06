@@ -1,11 +1,7 @@
-## About
+## Contact
 
 - [Utrecht Exposome Hub](https://www.uu.nl/en/research/life-sciences/collaborate/hubs/utrecht-exposome-hub), [Utrecht University](https://www.uu.nl/en)
-- Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
-
-
-## Contact
-Email: <a.bellavia@uu.nl>
+- [Department of Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
