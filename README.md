@@ -28,7 +28,6 @@ These are some talks and presentations covering several of my current and past r
 
 I am the primary instructor of the following courses:
 
-- Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis
 - Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org)
 
