@@ -1,13 +1,11 @@
 ## About
 
-I am a Research Scientist in the Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), and a teaching faculty member of the Department of [Biostatistics](https://www.hsph.harvard.edu/biostatistics/), at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
+- [Utrecht Exposome Hub](https://www.uu.nl/en/research/life-sciences/collaborate/hubs/utrecht-exposome-hub), [Utrecht University](https://www.uu.nl/en)
+- Department of [Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
 
-My main research focus is the development and application of statistical methods for environmental epidemiology, with specific interests in high-dimensional exposures, interaction, and mediation analysis. As an applied statistician I am involved in several projects in environmental epidemiology, primarely working within the research groups of [Tamarra James-Todd](https://projects.iq.harvard.edu/james-toddlab) and [Marc Weisskopf](https://www.hsph.harvard.edu/weisskopf-lab/).
-
-I am also interested in quantile regression techniques for time-to-event outcomes, which was the topic of my [doctoral thesis](https://openarchive.ki.se/xmlui/handle/10616/44821). 
 
 ## Contact
-Email: <abellavi@hsph.harvard.edu>
+Email: <a.bellavia@uu.nl>
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
