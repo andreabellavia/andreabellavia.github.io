@@ -38,6 +38,8 @@ Here is a full list of my scientific publications:
 
 **2020**
 
+- 60\. Russell B, Van Hemelrijck M, Gårdmark T, Holmberg L, Kumar P, **Bellavia A**, Häggström C. A mediation analysis to explain socio-economic differences in bladder cancer survival. Cancer Medicine (In press)
+
 - 59\. Rotem RS, Nguyen VT, Chodick G, Davidovitch M, Shalev V, Hauser R, Coull BA, **Bellavia A**, Weisskopf MG. Maternal Androgen-Related Conditions, Mediation by Cardiovascular, Metabolic and Fertility Factors, and Risk of Autism Spectrum Disorder in Progeny. American Journal of Epidemiology (In press)
 
 - 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. [Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017.](https://www.nature.com/articles/s41372-020-0698-x) Journal of Perinatology 
