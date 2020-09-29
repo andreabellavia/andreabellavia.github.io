@@ -38,7 +38,9 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 61\. **Bellavia A**, Dickerson AS, Rotem RS, Hansen J, Gredal O, Weisskopf MG. Joint and interactive effects between health comorbidities and environmental exposures in predicting amyotrophic lateral sclerosis. International Journal of Hygiene and Environmental Health - In press
+- 62\. Mínguez-Alarcón L, **Bellavia A**, Gaskins AJ, Chavarro JE, Ford JB, Souter I, Calafat AM, Hauser R, Williams PL. Paternal mixtures of urinary concentrations of phthalate metabolites, bisphenol A and parabens in relation to pregnancy outcomes among couplesattending a fertility center. Environment International (In press)
+
+- 61\. **Bellavia A**, Dickerson AS, Rotem RS, Hansen J, Gredal O, Weisskopf MG. Joint and interactive effects between health comorbidities and environmental exposures in predicting amyotrophic lateral sclerosis. International Journal of Hygiene and Environmental Health (In press)
 
 - 60\. Russell B, Van Hemelrijck M, Gårdmark T, Holmberg L, Kumar P, **Bellavia A**, Häggström C. [A mediation analysis to explain socio-economic differences in bladder cancer survival.](https://onlinelibrary.wiley.com/doi/10.1002/cam4.3418) Cancer Medicine
 
