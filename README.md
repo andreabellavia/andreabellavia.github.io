@@ -38,13 +38,13 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 62\. Mínguez-Alarcón L, **Bellavia A**, Gaskins AJ, Chavarro JE, Ford JB, Souter I, Calafat AM, Hauser R, Williams PL. Paternal mixtures of urinary concentrations of phthalate metabolites, bisphenol A and parabens in relation to pregnancy outcomes among couplesattending a fertility center. Environment International (In press)
+- 62\. Mínguez-Alarcón L, **Bellavia A**, Gaskins AJ, Chavarro JE, Ford JB, Souter I, Calafat AM, Hauser R, Williams PL. [Paternal mixtures of urinary concentrations of phthalate metabolites, bisphenol A and parabens in relation to pregnancy outcomes among couplesattending a fertility center.](https://www.sciencedirect.com/science/article/pii/S0160412020321267) Environment International
 
 - 61\. **Bellavia A**, Dickerson AS, Rotem RS, Hansen J, Gredal O, Weisskopf MG. Joint and interactive effects between health comorbidities and environmental exposures in predicting amyotrophic lateral sclerosis. International Journal of Hygiene and Environmental Health (In press)
 
 - 60\. Russell B, Van Hemelrijck M, Gårdmark T, Holmberg L, Kumar P, **Bellavia A**, Häggström C. [A mediation analysis to explain socio-economic differences in bladder cancer survival.](https://onlinelibrary.wiley.com/doi/10.1002/cam4.3418) Cancer Medicine
 
-- 59\. Rotem RS, Nguyen VT, Chodick G, Davidovitch M, Shalev V, Hauser R, Coull BA, **Bellavia A**, Weisskopf MG. Maternal Androgen-Related Conditions, Mediation by Cardiovascular, Metabolic and Fertility Factors, and Risk of Autism Spectrum Disorder in Progeny. American Journal of Epidemiology (In press)
+- 59\. Rotem RS, Nguyen VT, Chodick G, Davidovitch M, Shalev V, Hauser R, Coull BA, **Bellavia A**, Weisskopf MG. [Maternal Androgen-Related Conditions, Mediation by Cardiovascular, Metabolic and Fertility Factors, and Risk of Autism Spectrum Disorder in Progeny.](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaa219/5922783?redirectedFrom=fulltext) American Journal of Epidemiology
 
 - 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. [Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017.](https://www.nature.com/articles/s41372-020-0698-x) Journal of Perinatology 
 
