@@ -7,7 +7,6 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
-These are some talks and presentations covering several of my current and past research activities:
 
 - <a href="RSA_Bellavia.pdf">Evaluating complex interactions in environmental and occupational epidemiology</a>, HSPH, December 2019
 
@@ -26,7 +25,6 @@ These are some talks and presentations covering several of my current and past r
 
 ## Teaching
 
-I am the primary instructor of the following courses:
 
 - Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org)
@@ -34,7 +32,6 @@ I am the primary instructor of the following courses:
 
 ## Publications
 
-Here is a full list of my scientific publications:
 
 **2020**
 
