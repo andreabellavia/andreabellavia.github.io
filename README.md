@@ -38,7 +38,9 @@ Here is a full list of my scientific publications:
 
 **2020**
 
-- 62\. Rizzuto D, Grande G, **Bellavia A**. [Air Pollution, Cardiovascular Disease, and Dementia—Reply.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2772865) JAMA Neurology
+- 64\. Mehta SS, James-Todd T, Applebaum KM, **Bellavia A**, Coleman-Phox K, Adler N, Laraia B, Epel E, Parry E, Wang M, Park JS, Zota AR. Persistent organic pollutants and maternal glycemic outcomes in a diverse pregnancy cohort of overweight women. Environmental Research (In press)
+
+- 63\. Rizzuto D, Grande G, **Bellavia A**. [Air Pollution, Cardiovascular Disease, and Dementia—Reply.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2772865) JAMA Neurology
 
 - 62\. Mínguez-Alarcón L, **Bellavia A**, Gaskins AJ, Chavarro JE, Ford JB, Souter I, Calafat AM, Hauser R, Williams PL. [Paternal mixtures of urinary concentrations of phthalate metabolites, bisphenol A and parabens in relation to pregnancy outcomes among couplesattending a fertility center.](https://www.sciencedirect.com/science/article/pii/S0160412020321267) Environment International
 
