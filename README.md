@@ -35,6 +35,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2020**
 
+- 65\. Tyagi P, James-Todd T, Mínguez-Alarcón L, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, Williams PL, **Bellavia A**. Identifying windows of susceptibility to endocrine disrupting chemicals in relation to gestational weight gain among pregnant women attending a fertility clinic. Environmental Research (In press)
+
 - 64\. Mehta SS, James-Todd T, Applebaum KM, **Bellavia A**, Coleman-Phox K, Adler N, Laraia B, Epel E, Parry E, Wang M, Park JS, Zota AR. [Persistent organic pollutants and maternal glycemic outcomes in a diverse pregnancy cohort of overweight women.](https://www.sciencedirect.com/science/article/abs/pii/S0013935120314481?via%3Dihub) Environmental Research
 
 - 63\. Rizzuto D, Grande G, **Bellavia A**. [Air Pollution, Cardiovascular Disease, and Dementia—Reply.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2772865) JAMA Neurology
