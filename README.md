@@ -26,7 +26,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Teaching
 
 
-- Harvard T. H. Chan School of Public Health - <a href="lab4_solutions.html">EH550</a>: Statistical Methods for Environmental Mixtures
+- Harvard T. H. Chan School of Public Health - <a href="lab3_solutions.html">EH550</a>: Statistical Methods for Environmental Mixtures
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org)
 
 
