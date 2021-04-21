@@ -33,12 +33,15 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Publications
 
+**2021**
 
-**2020**
+- 66\. Preston EV, Chan M, Nozhenko K, **Bellavia A**, Grenon MC, Cantonwine DE, McElrath TF, James-Todd T.  Socioeconomic and racial/ethnic differences in use of endocrine-disrupting chemical-associated personal care product categories among pregnant women.  Environmental Research (In press)
 
 - 65\. Tyagi P, James-Todd T, Mínguez-Alarcón L, Ford JB, Keller M, Petrozza JC, Calafat AM, Hauser R, Williams PL, **Bellavia A**. [Identifying windows of susceptibility to endocrine disrupting chemicals in relation to gestational weight gain among pregnant women attending a fertility clinic.](https://www.sciencedirect.com/science/article/abs/pii/S0013935120315358) Environmental Research 
 
 - 64\. Mehta SS, James-Todd T, Applebaum KM, **Bellavia A**, Coleman-Phox K, Adler N, Laraia B, Epel E, Parry E, Wang M, Park JS, Zota AR. [Persistent organic pollutants and maternal glycemic outcomes in a diverse pregnancy cohort of overweight women.](https://www.sciencedirect.com/science/article/abs/pii/S0013935120314481?via%3Dihub) Environmental Research
+
+**2020**
 
 - 63\. Rizzuto D, Grande G, **Bellavia A**. [Air Pollution, Cardiovascular Disease, and Dementia—Reply.](https://jamanetwork.com/journals/jamaneurology/article-abstract/2772865) JAMA Neurology
 
@@ -48,7 +51,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 60\. Russell B, Van Hemelrijck M, Gårdmark T, Holmberg L, Kumar P, **Bellavia A**, Häggström C. [A mediation analysis to explain socio-economic differences in bladder cancer survival.](https://onlinelibrary.wiley.com/doi/10.1002/cam4.3418) Cancer Medicine
 
-- 59\. Rotem RS, Nguyen VT, Chodick G, Davidovitch M, Shalev V, Hauser R, Coull BA, **Bellavia A**, Weisskopf MG. [Maternal Androgen-Related Conditions, Mediation by Cardiovascular, Metabolic and Fertility Factors, and Risk of Autism Spectrum Disorder in Progeny.](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaa219/5922783?redirectedFrom=fulltext) American Journal of Epidemiology
+- 59\. Rotem RS, Nguyen VT, Chodick G, Davidovitch M, Shalev V, Hauser R, Coull BA, **Bellavia A**, Weisskopf MG. [Associations of Maternal Androgen-Related Conditions With Risk of Autism Spectrum Disorder in Progeny and Mediation by Cardiovascular, Metabolic, and Fertility Factors.](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaa219/5922783?redirectedFrom=fulltext) American Journal of Epidemiology
 
 - 58\. Helman S, James-Todd T, Wang Z, **Bellavia A**, Wyckoff J, Serdy S, Halprin E, O’Brien K, Takoudes T, Gupta M, McElrath T, Brown F. [Time Trends in Pregnancy-Related Outcomes among Women with Type 1 Diabetes Mellitus, 2004-2017.](https://www.nature.com/articles/s41372-020-0698-x) Journal of Perinatology 
 
