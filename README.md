@@ -27,8 +27,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Teaching
 
 
-- Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures
-- [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org)
+- Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures (2019-)
+- [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org) (2018-)
+- Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis (2018-2020)
 
 
 ## Publications
