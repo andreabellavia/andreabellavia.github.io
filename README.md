@@ -36,7 +36,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2021**
 
-- 67\. Wang VA, James-Todd T, Hacker MR, O'Brien KE, Wylie BJ, Hauser R, Williams PL, **Bellavia A**, Quinn MR, McElrath TF, Papatheodorou S. Ambient PM gross β-activity and glucose metabolism during pregnancy. Environmental Health - in press
+- 67\. Wang VA, James-Todd T, Hacker MR, O'Brien KE, Wylie BJ, Hauser R, Williams PL, **Bellavia A**, Quinn MR, McElrath TF, Papatheodorou S. [Ambient PM gross β-activity and glucose metabolism during pregnancy.](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00744-9#citeas) Environmental Health 
 
 - 66\. Preston EV, Chan M, Nozhenko K, **Bellavia A**, Grenon MC, Cantonwine DE, McElrath TF, James-Todd T.  [Socioeconomic and racial/ethnic differences in use of endocrine-disrupting chemical-associated personal care product categories among pregnant women.](https://www.sciencedirect.com/science/article/abs/pii/S0013935121005065)  Environmental Research
 
