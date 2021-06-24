@@ -36,7 +36,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2021**
 
-- 68\. Chan M, Mita C, **Bellavia A**, Parker M, James-Todd T. [Racial/Ethnic Disparities in Pregnancy and Prenatal Exposure to Endocrine-Disrupting Chemicals Commonly Used in Personal Care Products.](https://pubmed.ncbi.nlm.nih.gov/34046860/) Current Environmental Health Reports volume
+- 68\. Chan M, Mita C, **Bellavia A**, Parker M, James-Todd T. [Racial/Ethnic Disparities in Pregnancy and Prenatal Exposure to Endocrine-Disrupting Chemicals Commonly Used in Personal Care Products.](https://pubmed.ncbi.nlm.nih.gov/34046860/) Current Environmental Health Reports
 
 - 67\. Wang VA, James-Todd T, Hacker MR, O'Brien KE, Wylie BJ, Hauser R, Williams PL, **Bellavia A**, Quinn MR, McElrath TF, Papatheodorou S. [Ambient PM gross β-activity and glucose metabolism during pregnancy.](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00744-9#citeas) Environmental Health 
 
