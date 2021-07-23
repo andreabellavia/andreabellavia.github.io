@@ -1,7 +1,6 @@
 ## Contact
 
-- [Utrecht Exposome Hub](https://www.uu.nl/en/research/life-sciences/collaborate/hubs/utrecht-exposome-hub), [Utrecht University](https://www.uu.nl/en)
-- [Department of Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu).
+- [TIMI Study group](https://timi.org/), [Brigham and Womens Hospital](https://www.brighamandwomens.org/) / [Harvard Medical School](https://hms.harvard.edu/)
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
@@ -26,9 +25,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Teaching
 
-
-- Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures (2019-)
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org) (2018-)
+- Harvard T. H. Chan School of Public Health - EH550: Statistical Methods for Environmental Mixtures (2019-2021)
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis (2018-2020)
 
 
