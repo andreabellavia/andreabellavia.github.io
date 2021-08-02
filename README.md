@@ -34,7 +34,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2021**
 
-- 69\. Rotem SM, Hodik G, Davidov M, **Bellavia A**, Weisskopf MG. Maternal Thyroid Anomalies and Attention-Deficit Hyperactivity Disorder in Progeny. American Journal of Epidemiology - In press
+- 69\. Rotem RS, Hodik G, Davidov M, **Bellavia A**, Weisskopf MG. Maternal Thyroid Anomalies and Attention-Deficit Hyperactivity Disorder in Progeny. American Journal of Epidemiology - In press
 
 - 68\. Chan M, Mita C, **Bellavia A**, Parker M, James-Todd T. [Racial/Ethnic Disparities in Pregnancy and Prenatal Exposure to Endocrine-Disrupting Chemicals Commonly Used in Personal Care Products.](https://pubmed.ncbi.nlm.nih.gov/34046860/) Current Environmental Health Reports
 
