@@ -6,7 +6,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
-- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures commands</a>, IX Congresso Nazionale SISMEC, September 2021
+- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, IX Congresso Nazionale SISMEC, September 2021
  
 - <a href="stata_v2.pdf">Mediation and interaction analysis - introduction and overview of Stata commands</a>, Stata 2021 symposium, February 2021
 
