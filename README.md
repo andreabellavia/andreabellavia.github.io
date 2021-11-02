@@ -26,7 +26,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Software
 
-- [interactionHR:](https://github.com/gmelloni/interactionHR) R functions to smoothly plot the HR for a fiven predictors over levels of a second continuous covariate after specifying flexible interactions in a Cox model
+- [interactionHR:](https://github.com/gmelloni/interactionHR) R functions to smoothly plot the HR for a  predictor of interest over levels of a second continuous covariate after specifying flexible interactions in a Cox model
 - [med4way:](https://pubmed.ncbi.nlm.nih.gov/30452641/) a Stata command for estimating the 4-way decomposition of the total effect in mediation analysis
 
 
