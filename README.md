@@ -41,6 +41,10 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2021**
 
+- 60\. Traini E, Huss A, Portengen L, Rookus M, Verschuren WM, Vermeulen R, **Bellavia A**. A multi-pollutant approach to estimate the causal effects of air pollution mixtures on overall mortality in a large prospective cohort of Dutch individuals. Epidemiology - in press
+
+**2021**
+
 - 69\. Rotem RS, Hodik G, Davidov M, **Bellavia A**, Weisskopf MG. [Maternal Thyroid Anomalies and Attention-Deficit Hyperactivity Disorder in Progeny.](https://pubmed.ncbi.nlm.nih.gov/34791037/) American Journal of Epidemiology
 
 - 68\. Chan M, Mita C, **Bellavia A**, Parker M, James-Todd T. [Racial/Ethnic Disparities in Pregnancy and Prenatal Exposure to Endocrine-Disrupting Chemicals Commonly Used in Personal Care Products.](https://pubmed.ncbi.nlm.nih.gov/34046860/) Current Environmental Health Reports
