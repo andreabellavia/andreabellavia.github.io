@@ -41,6 +41,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
+- 71\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance. Environment International - in press.
+
 - 70\. Traini E, Huss A, Portengen L, Rookus M, Verschuren WM, Vermeulen R, **Bellavia A**. A multi-pollutant approach to estimate the causal effects of air pollution mixtures on overall mortality in a large prospective cohort of Dutch individuals. Epidemiology - in press
 
 **2021**
