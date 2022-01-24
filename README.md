@@ -43,7 +43,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 72\. Yim G, Minatoya M, Kioumourtzoglou MA, **Bellavia A**, Weisskopf M, Ikeda-Araki A, Miyashita C, Kishi R. The Associations of Prenatal Exposure to Dioxins and Polychlorinated Biphenyls with Neurodevelopment at 6 Months of Age: Multi-pollutant Approaches. Environmental Research - in press.
 
-- 71\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance. Environment International - in press.
+- 71\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  [Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance.](https://www.sciencedirect.com/science/article/pii/S0160412022000253) Environment International
 
 - 70\. Traini E, Huss A, Portengen L, Rookus M, Verschuren WM, Vermeulen R, **Bellavia A**. A multi-pollutant approach to estimate the causal effects of air pollution mixtures on overall mortality in a large prospective cohort of Dutch individuals. Epidemiology - in press
 
