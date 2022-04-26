@@ -41,6 +41,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
+- 73\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies. International Journal of Hygiene and Environmental Health (In press)
+
 - 72\. Yim G, Minatoya M, Kioumourtzoglou MA, **Bellavia A**, Weisskopf M, Ikeda-Araki A, Miyashita C, Kishi R. [The Associations of Prenatal Exposure to Dioxins and Polychlorinated Biphenyls with Neurodevelopment at 6 Months of Age: Multi-pollutant Approaches.](https://pubmed.ncbi.nlm.nih.gov/35065939/) Environmental Research
 
 - 71\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  [Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance.](https://www.sciencedirect.com/science/article/pii/S0160412022000253) Environment International
