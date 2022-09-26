@@ -41,6 +41,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
+- 74\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia. Environmental Research - In press
+
 - 73\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. [Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies.](https://pubmed.ncbi.nlm.nih.gov/35569252/) International Journal of Hygiene and Environmental Health
 
 - 72\. Yim G, Minatoya M, Kioumourtzoglou MA, **Bellavia A**, Weisskopf M, Ikeda-Araki A, Miyashita C, Kishi R. [The Associations of Prenatal Exposure to Dioxins and Polychlorinated Biphenyls with Neurodevelopment at 6 Months of Age: Multi-pollutant Approaches.](https://pubmed.ncbi.nlm.nih.gov/35065939/) Environmental Research
