@@ -41,7 +41,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
-- 74\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia. Environmental Research - In press
+- 74\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. [Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia.](https://www.sciencedirect.com/science/article/pii/S0013935122017741) Environmental Research
 
 - 73\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. [Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies.](https://pubmed.ncbi.nlm.nih.gov/35569252/) International Journal of Hygiene and Environmental Health
 
