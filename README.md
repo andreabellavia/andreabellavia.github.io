@@ -41,13 +41,15 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
-- 74\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. [Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia.](https://www.sciencedirect.com/science/article/pii/S0013935122017741) Environmental Research
+- 75\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. [Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia.](https://www.sciencedirect.com/science/article/pii/S0013935122017741) Environmental Research
 
-- 73\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. [Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies.](https://pubmed.ncbi.nlm.nih.gov/35569252/) International Journal of Hygiene and Environmental Health
+- 74\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. [Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies.](https://pubmed.ncbi.nlm.nih.gov/35569252/) International Journal of Hygiene and Environmental Health
 
-- 72\. Yim G, Minatoya M, Kioumourtzoglou MA, **Bellavia A**, Weisskopf M, Ikeda-Araki A, Miyashita C, Kishi R. [The Associations of Prenatal Exposure to Dioxins and Polychlorinated Biphenyls with Neurodevelopment at 6 Months of Age: Multi-pollutant Approaches.](https://pubmed.ncbi.nlm.nih.gov/35065939/) Environmental Research
+- 73\. Yim G, Minatoya M, Kioumourtzoglou MA, **Bellavia A**, Weisskopf M, Ikeda-Araki A, Miyashita C, Kishi R. [The Associations of Prenatal Exposure to Dioxins and Polychlorinated Biphenyls with Neurodevelopment at 6 Months of Age: Multi-pollutant Approaches.](https://pubmed.ncbi.nlm.nih.gov/35065939/) Environmental Research
 
-- 71\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  [Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance.](https://www.sciencedirect.com/science/article/pii/S0160412022000253) Environment International
+- 72\. James-Todd T, Ponzano M, **Bellavia A**, Williams PL, Cantonwine DE, Calafat AM, Hauser R, Quinn MR, Seely EW, McElrath TF.  [Urinary phthalate and DINCH metabolite concentrations and gradations of maternal glucose intolerance.](https://www.sciencedirect.com/science/article/pii/S0160412022000253) Environment International
+
+- 71\. Traini E, Huss A, Portengen L, Rookus M, Verschuren WM, Vermeulen R, **Bellavia A**. [Authors' response.](https://journals.lww.com/epidem/Fulltext/2022/11000/The_Authors_Respond.19.aspx) Epidemiology
 
 - 70\. Traini E, Huss A, Portengen L, Rookus M, Verschuren WM, Vermeulen R, **Bellavia A**. [A multi-pollutant approach to estimate the causal effects of air pollution mixtures on overall mortality in a large prospective cohort of Dutch individuals.](https://journals.lww.com/epidem/Abstract/9900/A_multi_pollutant_approach_to_estimating_causal.5.aspx) Epidemiology
 
