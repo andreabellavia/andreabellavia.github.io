@@ -41,6 +41,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2022**
 
+- 76\. Ponzano M, Schiavetti I, Bergamaschi R, Pisoni E, **Bellavia A**, Mallucci G, Carmisciano L, Inglese M, Cordioli C, Marfia GA et al. The impact of PM2.5, PM10 and NO2 on Covid-19 severity in a sample of patients with multiple sclerosis: a case-control study. Multiple Sclerosis and Related Disorders - In press
+
 - 75\. **Bellavia A**, Zou R, Bjorvang RD, Roos K, Sjunnesson Y, Hallberg I, Holte J, Pikki A, Lenters V, Portengen L, Koekkoek J, Lamoree M, Van Duursen M, Vermeulen R, Salumets A, Velthut-Meikas A, Damdimopoulou P. [Association between chemical mixtures and female fertility in women undergoing assisted reproduction in Sweden and Estonia.](https://www.sciencedirect.com/science/article/pii/S0013935122017741) Environmental Research
 
 - 74\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Hacker MR, Kannan K, Bloom MS, Hunt KJ, Hauser R, James-Todd T. [Polybrominated diphenyl ethers in early pregnancy and preterm birth: Findings from the NICHD Fetal Growth Studies.](https://pubmed.ncbi.nlm.nih.gov/35569252/) International Journal of Hygiene and Environmental Health
