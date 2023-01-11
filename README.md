@@ -1,7 +1,6 @@
 ## About me
 
-- Investigator (Biostatistics) @ [TIMI Study group](https://timi.org/)
-- Lecturer @ [Brigham and Womens Hospital](https://www.brighamandwomens.org/) , [Harvard Medical School](https://hms.harvard.edu/)
+- Lecturer (Biostatistics) @ [TIMI Study group](https://timi.org/) / [Brigham and Womens Hospital](https://www.brighamandwomens.org/) / [Harvard Medical School](https://hms.harvard.edu/)
 - Adjunct Faculty @ [Department of Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
