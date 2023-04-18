@@ -220,4 +220,3 @@ in clinical research </a>, IX Congresso Nazionale SISMEC, September 2021
 
 - 1\. **Bellavia A**, Urch B, Speck M, Brook RD, Scott JA, Albetti B, Behbod B, North M, Valeri L, Bertazzi PA, Silverman F, Gold D, Baccarelli AA. [DNA hypomethylation, ambient particulate matter, and increased blood pressure: findings from controlled human exposure experiments.](https://www.ncbi.nlm.nih.gov/pubmed/23782920) J Am Heart Assoc
 
-[test](https://andreabellavia.github.io/main)
