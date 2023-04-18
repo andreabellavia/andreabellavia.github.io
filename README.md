@@ -7,7 +7,10 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
-- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, IX Congresso Nazionale SISMEC, September 2021
+- <a href="Bellavia_CSP2023_final.pdf">Evaluating and presenting complex interactions
+in clinical research </a>, IX Congresso Nazionale SISMEC, September 2021
+
+- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, ASA Conference on Statistical Practice, February 2022
  
 - <a href="stata_v2.pdf">Mediation and interaction analysis - introduction and overview of Stata commands</a>, Stata 2021 symposium, February 2021
 
@@ -39,6 +42,11 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 
 ## Publications
+
+
+**2023**
+
+- 77\. Berg DD, Moura FA, **Bellavia A**, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Bohula EA, Giugliano RP, Park J, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. Assessment of Atherothrombotic Risk in Patients with Type 2 Diabetes Mellitus. Journal of the American College of Cardiology - in press
 
 **2022**
 
