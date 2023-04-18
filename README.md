@@ -8,9 +8,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Research
 
 - <a href="Bellavia_CSP2023_final.pdf">Evaluating and presenting complex interactions
-in clinical research </a>, IX Congresso Nazionale SISMEC, September 2021
+in clinical research </a>, ASA Conference on Statistical Practice, February 2022
 
-- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, ASA Conference on Statistical Practice, February 2022
+- <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, IX Congresso Nazionale SISMEC, September 2021
  
 - <a href="stata_v2.pdf">Mediation and interaction analysis - introduction and overview of Stata commands</a>, Stata 2021 symposium, February 2021
 
