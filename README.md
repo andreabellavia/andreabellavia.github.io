@@ -43,7 +43,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Publications
 
 **2023**
-
+- 78\. Grande G, Hooshmand B, Vetrano DL, Smith AD, Refsum H, Fratiglioni L, Ljungman P, Wu J, **Bellavia A**, Eneroth K, Bellander T, Rizzuto D. Association of long-term exposure to air pollution and dementia risk: the role of homocysteine, methionine and cardiovascular burden. Neurology - in press
+ 
 - 77\. Berg DD, Moura FA, **Bellavia A**, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Bohula EA, Giugliano RP, Park J, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. Assessment of Atherothrombotic Risk in Patients with Type 2 Diabetes Mellitus. Journal of the American College of Cardiology - in press
 
 **2022**
