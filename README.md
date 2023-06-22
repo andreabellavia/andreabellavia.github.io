@@ -1,7 +1,8 @@
 ## About me
 
-- Lecturer (Biostatistics) @ [TIMI Study group](https://timi.org/) / [Brigham and Womens Hospital](https://www.brighamandwomens.org/) / [Harvard Medical School](https://hms.harvard.edu/)
-- Adjunct Faculty @ [Department of Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
+- Biostatistics @ [TIMI Study group](https://timi.org/) / [Brigham and Womens Hospital](https://www.brighamandwomens.org/) 
+- Lecturer  @ Department of Medicine / [Harvard Medical School](https://hms.harvard.edu/)
+- Secondary faculty (lecturer) @ [Department of Environmental Health](https://www.hsph.harvard.edu/environmental-health/), [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
@@ -36,7 +37,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Teaching
 
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org) (2018-)
-- Harvard T. H. Chan School of Public Health - [EH245: Statistical Methods for Environmental Mixtures and Exposome Research (former EH550)](https://bookdown.org/andreabellavia/mixtures/) (2019-)
+- Harvard T.H. Chan School of Public Health - [EH245: Statistical Methods for Environmental Mixtures and Exposome Research (former EH550)](https://bookdown.org/andreabellavia/mixtures/) (2019-)
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis (2018-2020)
 
 
@@ -45,7 +46,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2023**
 - 78\. Grande G, Hooshmand B, Vetrano DL, Smith AD, Refsum H, Fratiglioni L, Ljungman P, Wu J, **Bellavia A**, Eneroth K, Bellander T, Rizzuto D. Association of long-term exposure to air pollution and dementia risk: the role of homocysteine, methionine and cardiovascular burden. Neurology - in press
  
-- 77\. Berg DD, Moura FA, **Bellavia A**, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Bohula EA, Giugliano RP, Park J, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. Assessment of Atherothrombotic Risk in Patients with Type 2 Diabetes Mellitus. Journal of the American College of Cardiology - in press
+- 77\. Berg DD, Moura FA, **Bellavia A**, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Bohula EA, Giugliano RP, Park J, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. [Assessment of Atherothrombotic Risk in Patients with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/37344040/) Journal of the American College of Cardiology
 
 **2022**
 
