@@ -47,7 +47,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 79\. Moura FA, Berg DD, **Bellavia A**, Dwyer JP, Mosenzon O, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. Risk Assessment of Kidney Disease Progression and Efficacy of SGLT2 inhibition in Patients with Type 2 Diabetes.Diabetes Care - In press
 
-- 78\. Grande G, Hooshmand B, Vetrano DL, Smith AD, Refsum H, Fratiglioni L, Ljungman P, Wu J, **Bellavia A**, Eneroth K, Bellander T, Rizzuto D. Association of long-term exposure to air pollution and dementia risk: the role of homocysteine, methionine and cardiovascular burden. Neurology - in press
+- 78\. Grande G, Hooshmand B, Vetrano DL, Smith AD, Refsum H, Fratiglioni L, Ljungman P, Wu J, **Bellavia A**, Eneroth K, Bellander T, Rizzuto D. [Association of long-term exposure to air pollution and dementia risk: the role of homocysteine, methionine and cardiovascular burden.](https://n.neurology.org/content/early/2023/07/13/WNL.0000000000207656) Neurology
  
 - 77\. Berg DD, Moura FA, **Bellavia A**, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Bohula EA, Giugliano RP, Park J, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. [Assessment of Atherothrombotic Risk in Patients with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/37344040/) Journal of the American College of Cardiology
 
