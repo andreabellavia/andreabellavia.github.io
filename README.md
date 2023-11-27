@@ -45,6 +45,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2023**
 
+- 80\. **Bellavia A**, Melloni GEM, Park JG, Discacciati A, Murphy SA. Estimating and Presenting Hazard Ratios and Absolute Risks from a Cox Model with Complex Non-linear Interactions. American Journal of Epidemiology - in press
+  
 - 79\. Moura FA, Berg DD, **Bellavia A**, Dwyer JP, Mosenzon O, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. [Risk Assessment of Kidney Disease Progression and Efficacy of SGLT2 inhibition in Patients with Type 2 Diabetes.](https://diabetesjournals.org/care/article/doi/10.2337/dc23-0492/153464/Risk-Assessment-of-Kidney-Disease-Progression-and) Diabetes Care 
 
 - 78\. Grande G, Hooshmand B, Vetrano DL, Smith AD, Refsum H, Fratiglioni L, Ljungman P, Wu J, **Bellavia A**, Eneroth K, Bellander T, Rizzuto D. [Association of long-term exposure to air pollution and dementia risk: the role of homocysteine, methionine and cardiovascular burden.](https://n.neurology.org/content/early/2023/07/13/WNL.0000000000207656) Neurology
