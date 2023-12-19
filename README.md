@@ -45,6 +45,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2023**
 
+- 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61. European Journal of Heart Failure - in press 
+
 - 81\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, James-Todd T. Racial and ethnic disparities in preterm birth: a mediation analysis incorporating mixtures of polybrominated diphenyl ethers. Frontiers in Reproductive Health - in press
 
 - 80\. **Bellavia A**, Melloni GEM, Park JG, Discacciati A, Murphy SA. Estimating and Presenting Hazard Ratios and Absolute Risks from a Cox Model with Complex Non-linear Interactions. American Journal of Epidemiology - in press
