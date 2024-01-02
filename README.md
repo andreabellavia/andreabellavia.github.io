@@ -47,9 +47,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 83\. **Bellavia A**, Murphy SA. Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect. Circulation - in press
 
-- 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61. European Journal of Heart Failure - in press 
+- 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. [Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61.](https://pubmed.ncbi.nlm.nih.gov/38131261/) European Journal of Heart Failure - in press 
 
-- 81\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, James-Todd T. Racial and ethnic disparities in preterm birth: a mediation analysis incorporating mixtures of polybrominated diphenyl ethers. Frontiers in Reproductive Health - in press
+- 81\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, James-Todd T. [Racial and ethnic disparities in preterm birth: a mediation analysis incorporating mixtures of polybrominated diphenyl ethers.](https://www.frontiersin.org/articles/10.3389/frph.2023.1285444/abstract) Frontiers in Reproductive Health
 
 - 80\. **Bellavia A**, Melloni GEM, Park JG, Discacciati A, Murphy SA. Estimating and Presenting Hazard Ratios and Absolute Risks from a Cox Model with Complex Non-linear Interactions. American Journal of Epidemiology - in press
   
