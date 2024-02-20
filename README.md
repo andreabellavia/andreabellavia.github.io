@@ -46,7 +46,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2023**
 
--84\. Gaba P, Sabik JF, Murphy SA, **Bellavia A**, O'Gara PT, Smith PK, Serruys PW, Kappetein AP, Park SJ, Park DW, Christiansen EH, Holm NR, Nielsen PH, Sabatine MS, Stone GW, Bergmark BA. PCI versus CABG in Patients with Left Main Disease with or without Diabetes Mellitus – Findings From a Pooled Analysis of Four Randomized Clinical Trials. Circulation - in press 
+- 84\. Gaba P, Sabik JF, Murphy SA, **Bellavia A**, O'Gara PT, Smith PK, Serruys PW, Kappetein AP, Park SJ, Park DW, Christiansen EH, Holm NR, Nielsen PH, Sabatine MS, Stone GW, Bergmark BA. PCI versus CABG in Patients with Left Main Disease with or without Diabetes Mellitus – Findings From a Pooled Analysis of Four Randomized Clinical Trials. Circulation - in press 
 
 - 83\. **Bellavia A**, Murphy SA. Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect. Circulation - in press
 
