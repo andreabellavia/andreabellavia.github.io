@@ -46,9 +46,11 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2023**
 
+-84\. Gaba P, Sabik JF, Murphy SA, **Bellavia A**, O'Gara PT, Smith PK, Serruys PW, Kappetein AP, Park SJ, Park DW, Christiansen EH, Holm NR, Nielsen PH, Sabatine MS, Stone GW, Bergmark BA. PCI versus CABG in Patients with Left Main Disease with or without Diabetes Mellitus – Findings From a Pooled Analysis of Four Randomized Clinical Trials. Circulation - in press 
+
 - 83\. **Bellavia A**, Murphy SA. Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect. Circulation - in press
 
-- 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. [Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61.](https://pubmed.ncbi.nlm.nih.gov/38131261/) European Journal of Heart Failure - in press 
+- 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. [Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61.](https://pubmed.ncbi.nlm.nih.gov/38131261/) European Journal of Heart Failure 
 
 - 81\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, James-Todd T. [Racial and ethnic disparities in preterm birth: a mediation analysis incorporating mixtures of polybrominated diphenyl ethers.](https://www.frontiersin.org/articles/10.3389/frph.2023.1285444/abstract) Frontiers in Reproductive Health
 
