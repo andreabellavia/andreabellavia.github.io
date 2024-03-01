@@ -46,6 +46,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **2023**
 
+-85. Rotem RS, **Bellavia A**, Paganoni S, Weisskopf MG. [Medication use and risk of amyotrophic lateral sclerosis: using machine learning for an exposome-wide screen of a large clinical database](https://www.tandfonline.com/doi/full/10.1080/21678421.2024.2320878). Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration
+
 - 84\. Gaba P, Sabik JF, Murphy SA, **Bellavia A**, O'Gara PT, Smith PK, Serruys PW, Kappetein AP, Park SJ, Park DW, Christiansen EH, Holm NR, Nielsen PH, Sabatine MS, Stone GW, Bergmark BA. PCI versus CABG in Patients with Left Main Disease with or without Diabetes Mellitus – Findings From a Pooled Analysis of Four Randomized Clinical Trials. Circulation - in press 
 
 - 83\. **Bellavia A**, Murphy SA. Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect. Circulation - in press
