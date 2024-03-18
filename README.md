@@ -52,9 +52,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 84\. Gaba P, Sabik JF, Murphy SA, **Bellavia A**, O'Gara PT, Smith PK, Serruys PW, Kappetein AP, Park SJ, Park DW, Christiansen EH, Holm NR, Nielsen PH, Sabatine MS, Stone GW, Bergmark BA. [PCI versus CABG in Patients with Left Main Disease with or without Diabetes Mellitus – Findings From a Pooled Analysis of Four Randomized Clinical Trials.](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.123.065571) Circulation
 
-**2023**
-
 - 83\. **Bellavia A**, Murphy SA. Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect. Circulation - in press
+
+**2023**
 
 - 82\. Patel SM, Morrow DA, **Bellavia A**, Berg DD, Bhatt DL, Jarolim P, Leiter LA, McGuire DK, Raz I, Steg G, Wilding JPH, Sabatine MS, Wiviott SD, Braunwald E, Scirica BM, Bohula EA. [Natriuretic Peptides, Body Mass Index and Heart Failure Risk: Pooled Analyses of SAVOR-TIMI 53, DECLARE-TIMI 58 and CAMELLIA-TIMI 61.](https://pubmed.ncbi.nlm.nih.gov/38131261/) European Journal of Heart Failure 
 
