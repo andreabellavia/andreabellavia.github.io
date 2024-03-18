@@ -8,6 +8,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research
 
+- <a href="2024_03_13_imputations_ENAR_final.pdf">A Comparison of Approaches for Missing Outcome Data in RCT </a>, ENAR Spring Meeting, March 2023
+
 - <a href="Bellavia_CSP2023_final.pdf">Evaluating and presenting complex interactions in clinical research </a>, ASA Conference on Statistical Practice, February 2022
 
 - <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, IX Congresso Nazionale SISMEC, September 2021
