@@ -6,7 +6,7 @@
 
 Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
-## Research
+## Research talks
 
 - <a href="2024_03_13_imputations_ENAR_final.pdf">A Comparison of Approaches for Missing Outcome Data in RCT </a>, ENAR Spring Meeting, March 2023
 
