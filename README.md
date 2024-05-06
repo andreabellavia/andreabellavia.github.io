@@ -8,9 +8,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 ## Research talks
 
-- <a href="2024_03_13_imputations_ENAR_final.pdf">A Comparison of Approaches for Missing Outcome Data in RCT </a>, ENAR Spring Meeting, March 2023
+- <a href="2024_03_13_imputations_ENAR_final.pdf">A Comparison of Approaches for Missing Outcome Data in RCT </a>, ENAR Spring Meeting, March 2024
 
-- <a href="Bellavia_CSP2023_final.pdf">Evaluating and presenting complex interactions in clinical research </a>, ASA Conference on Statistical Practice, February 2022
+- <a href="Bellavia_CSP2023_final.pdf">Evaluating and presenting complex interactions in clinical research </a>, ASA Conference on Statistical Practice, February 2023
 
 - <a href="SISMEC_Bellavia.pdf">Causal Inference for High-Dimensional Exposures </a>, IX Congresso Nazionale SISMEC, September 2021
  
@@ -47,6 +47,12 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Publications
 
 **2024**
+
+- 89\. Wang Z, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, Hacker MR, Zhang C, and James-Todd T. Polybrominated diphenyl ethers and gestational weight gain: a multi-center prospective cohort study. BJOG: An International Journal of Obstetrics & Gynaecology - in press
+
+- 88\. Ponzano M, Signori A, **Bellavia A**, Carbone A, Bovis F, Schiavetti I, Montobbio N, Sormani MP.Race and ethnicity in multiple sclerosis phase 3 clinical trials, a systematic review. Multiple Sclerosis Journal - in press
+
+- 87\. Preston EV, Quinn MR, Williams PL, McElrath TF, Cantonwine DE, Seely EW, Wylie BJ, Hacker MR, O’Brien K, Brown FM, Powe CE, **Bellavia A**, Wang Z, Tomsho KS, Hauser R, James-Todd T. Cohort Profile: The Environmental Reproductive and Glucose Outcomes (ERGO) Study (Boston, MA) – a prospective pregnancy cohort study of the impacts of environmental exposures on parental cardiometabolic health. BMJ Open - in press
 
 - 86\. Murphy SA, **Bellavia A**. Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist. Circulation - in press
 
