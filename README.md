@@ -50,9 +50,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 89\. Wang Z, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, Hacker MR, Zhang C, and James-Todd T. Polybrominated diphenyl ethers and gestational weight gain: a multi-center prospective cohort study. BJOG: An International Journal of Obstetrics & Gynaecology - in press
 
-- 88\. Ponzano M, Signori A, **Bellavia A**, Carbone A, Bovis F, Schiavetti I, Montobbio N, Sormani MP.Race and ethnicity in multiple sclerosis phase 3 clinical trials, a systematic review. Multiple Sclerosis Journal - in press
+- 88\. Ponzano M, Signori A, **Bellavia A**, Carbone A, Bovis F, Schiavetti I, Montobbio N, Sormani MP. Race and ethnicity in multiple sclerosis phase 3 clinical trials, a systematic review. Multiple Sclerosis Journal - in press
 
-- 87\. Preston EV, Quinn MR, Williams PL, McElrath TF, Cantonwine DE, Seely EW, Wylie BJ, Hacker MR, O’Brien K, Brown FM, Powe CE, **Bellavia A**, Wang Z, Tomsho KS, Hauser R, James-Todd T. Cohort Profile: The Environmental Reproductive and Glucose Outcomes (ERGO) Study (Boston, MA) – a prospective pregnancy cohort study of the impacts of environmental exposures on parental cardiometabolic health. BMJ Open - in press
+- 87\. Preston EV, Quinn MR, Williams PL, McElrath TF, Cantonwine DE, Seely EW, Wylie BJ, Hacker MR, O’Brien K, Brown FM, Powe CE, **Bellavia A**, Wang Z, Tomsho KS, Hauser R, James-Todd T. [Cohort Profile: The Environmental Reproductive and Glucose Outcomes (ERGO) Study (Boston, MA) – a prospective pregnancy cohort study of the impacts of environmental exposures on parental cardiometabolic health.](https://pubmed.ncbi.nlm.nih.gov/38719310/) BMJ Open
 
 - 86\. Murphy SA, **Bellavia A**. Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist. Circulation - in press
 
