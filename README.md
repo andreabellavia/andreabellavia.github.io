@@ -71,7 +71,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 81\. Wang Z, Zhang C, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, James-Todd T. [Racial and ethnic disparities in preterm birth: a mediation analysis incorporating mixtures of polybrominated diphenyl ethers.](https://www.frontiersin.org/articles/10.3389/frph.2023.1285444/abstract) Frontiers in Reproductive Health
 
-- 80\. **Bellavia A**, Melloni GEM, Park JG, Discacciati A, Murphy SA. Estimating and Presenting Hazard Ratios and Absolute Risks from a Cox Model with Complex Non-linear Interactions. American Journal of Epidemiology - in press
+- 80\. **Bellavia A**, Melloni GEM, Park JG, Discacciati A, Murphy SA. [Estimating and Presenting Hazard Ratios and Absolute Risks from a Cox Model with Complex Non-linear Interactions.](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae037/7678921?redirectedFrom=fulltext) American Journal of Epidemiology
   
 - 79\. Moura FA, Berg DD, **Bellavia A**, Dwyer JP, Mosenzon O, Scirica BM, Wiviott SD, Bhatt DL, Raz I, Feinberg MW, Braunwald E, Morrow DA, Sabatine MS. [Risk Assessment of Kidney Disease Progression and Efficacy of SGLT2 inhibition in Patients with Type 2 Diabetes.](https://diabetesjournals.org/care/article/doi/10.2337/dc23-0492/153464/Risk-Assessment-of-Kidney-Disease-Progression-and) Diabetes Care 
 
