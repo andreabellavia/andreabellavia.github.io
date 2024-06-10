@@ -51,7 +51,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 90\. Patel SM, Lopes MS, Morrow DA, **Bellavia A**, Bhatt AS, Butler KK, D’Antonio J, Dunn M, Fagundes Jr. AA, Jarolim P, Marin EP, Morton L, Olenchock BO, Senman B, da Silva DS, Varshney AS, Bohula EA, Berg DD. [Targeted Proteomic Profiling of Cardiogenic Shock in the Cardiac Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/38815149/) European Heart Journal: Acute Cardiovascular Care
 
-- 89\. Wang Z, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, Hacker MR, Zhang C, and James-Todd T. Polybrominated diphenyl ethers and gestational weight gain: a multi-center prospective cohort study. BJOG: An International Journal of Obstetrics & Gynaecology - in press
+- 89\. Wang Z, Williams PL, **Bellavia A**, Wylie BJ, Kannan K, Bloom MS, Hunt KJ, Hacker MR, Zhang C, and James-Todd T. [Polybrominated diphenyl ethers and gestational weight gain: a multi-center prospective cohort study.](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.17860) BJOG: An International Journal of Obstetrics & Gynaecology
 
 - 88\. Ponzano M, Signori A, **Bellavia A**, Carbone A, Bovis F, Schiavetti I, Montobbio N, Sormani MP. Race and ethnicity in multiple sclerosis phase 3 clinical trials, a systematic review. Multiple Sclerosis Journal - in press
 
