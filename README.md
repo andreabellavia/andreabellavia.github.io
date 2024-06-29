@@ -49,7 +49,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
-- 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS.[Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy. Diabetes, Obesity and Metabolism - in press 
+- 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS. Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy. Diabetes, Obesity and Metabolism - in press 
 
 - 90\. Patel SM, Lopes MS, Morrow DA, **Bellavia A**, Bhatt AS, Butler KK, D’Antonio J, Dunn M, Fagundes Jr. AA, Jarolim P, Marin EP, Morton L, Olenchock BO, Senman B, da Silva DS, Varshney AS, Bohula EA, Berg DD. [Targeted Proteomic Profiling of Cardiogenic Shock in the Cardiac Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/38815149/) European Heart Journal: Acute Cardiovascular Care
 
