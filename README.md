@@ -49,7 +49,9 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
-- 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS. Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy. Diabetes, Obesity and Metabolism - in press 
+- 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF. Journal of the American College of Cardiology - in press
+
+- 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS. [Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy.](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15798) Diabetes, Obesity and Metabolism
 
 - 90\. Patel SM, Lopes MS, Morrow DA, **Bellavia A**, Bhatt AS, Butler KK, D’Antonio J, Dunn M, Fagundes Jr. AA, Jarolim P, Marin EP, Morton L, Olenchock BO, Senman B, da Silva DS, Varshney AS, Bohula EA, Berg DD. [Targeted Proteomic Profiling of Cardiogenic Shock in the Cardiac Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/38815149/) European Heart Journal: Acute Cardiovascular Care
 
