@@ -49,6 +49,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
+- 94\. Varik I, Zou R, **Bellavia A**, Rosenberg K, Sjunnesson Y, Hallberg I, Holte J, Lenters V, Van Duursen M, Pedersen M, Svingen T, Vermeulen R, Salumets A, Damdimopoulou P, Velthut-Meikas A. Reduced ovarian cholesterol and steroid biosynthesis along with increased inflammation are associated with high DEHP metabolite levels in human ovarian follicular fluids. Environment International - in press
+
 - 93\. **Bellavia A**, Murphy SA. Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations. Circulation - in press
 
 - 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF. Journal of the American College of Cardiology - in press
