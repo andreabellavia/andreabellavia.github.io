@@ -49,7 +49,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
-- 94\. Varik I, Zou R, **Bellavia A**, Rosenberg K, Sjunnesson Y, Hallberg I, Holte J, Lenters V, Van Duursen M, Pedersen M, Svingen T, Vermeulen R, Salumets A, Damdimopoulou P, Velthut-Meikas A. Reduced ovarian cholesterol and steroid biosynthesis along with increased inflammation are associated with high DEHP metabolite levels in human ovarian follicular fluids. Environment International - in press
+- 94\. Varik I, Zou R, **Bellavia A**, Rosenberg K, Sjunnesson Y, Hallberg I, Holte J, Lenters V, Van Duursen M, Pedersen M, Svingen T, Vermeulen R, Salumets A, Damdimopoulou P, Velthut-Meikas A. [Reduced ovarian cholesterol and steroid biosynthesis along with increased inflammation are associated with high DEHP metabolite levels in human ovarian follicular fluids.](https://www.sciencedirect.com/science/article/pii/S0160412024005464) Environment International
 
 - 93\. **Bellavia A**, Murphy SA. Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations. Circulation - in press
 
