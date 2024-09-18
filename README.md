@@ -53,7 +53,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 93\. **Bellavia A**, Murphy SA. Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations. Circulation - in press
 
-- 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF. Journal of the American College of Cardiology - in press
+- 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF. Journal of the American College of Cardiology](https://pubmed.ncbi.nlm.nih.gov/39230543/)
 
 - 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS. [Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy.](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15798) Diabetes, Obesity and Metabolism
 
@@ -65,7 +65,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 87\. Preston EV, Quinn MR, Williams PL, McElrath TF, Cantonwine DE, Seely EW, Wylie BJ, Hacker MR, O’Brien K, Brown FM, Powe CE, **Bellavia A**, Wang Z, Tomsho KS, Hauser R, James-Todd T. [Cohort Profile: The Environmental Reproductive and Glucose Outcomes (ERGO) Study (Boston, MA) – a prospective pregnancy cohort study of the impacts of environmental exposures on parental cardiometabolic health.](https://pubmed.ncbi.nlm.nih.gov/38719310/) BMJ Open
 
-- 86\. Murphy SA, **Bellavia A**. Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist. Circulation - in press
+- 86\. Murphy SA, **Bellavia A**. (Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist.](https://pubmed.ncbi.nlm.nih.gov/39250539/) Circulation
 
 - 85\. Rotem RS, **Bellavia A**, Paganoni S, Weisskopf MG. [Medication use and risk of amyotrophic lateral sclerosis: using machine learning for an exposome-wide screen of a large clinical database](https://www.tandfonline.com/doi/full/10.1080/21678421.2024.2320878). Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration
 
