@@ -53,7 +53,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 93\. **Bellavia A**, Murphy SA. [Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations.](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.124.069857) Circulation
 
-- 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF. Journal of the American College of Cardiology](https://pubmed.ncbi.nlm.nih.gov/39230543/)
+- 92\. Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF.](https://pubmed.ncbi.nlm.nih.gov/39230543/) Journal of the American College of Cardiology
 
 - 91\. Moura FA, **Bellavia A**, Berg DD, Melloni GEM, Feinberg MW, Leiter LA, Bohula EA, Morrow DA, Scirica BM, Wiviott SD, Sabatine MS. [Risk of New-Onset Diabetes and Efficacy of Pharmacologic Weight Loss Therapy.](https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15798) Diabetes, Obesity and Metabolism
 
