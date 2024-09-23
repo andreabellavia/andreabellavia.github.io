@@ -65,7 +65,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - 87\. Preston EV, Quinn MR, Williams PL, McElrath TF, Cantonwine DE, Seely EW, Wylie BJ, Hacker MR, O’Brien K, Brown FM, Powe CE, **Bellavia A**, Wang Z, Tomsho KS, Hauser R, James-Todd T. [Cohort Profile: The Environmental Reproductive and Glucose Outcomes (ERGO) Study (Boston, MA) – a prospective pregnancy cohort study of the impacts of environmental exposures on parental cardiometabolic health.](https://pubmed.ncbi.nlm.nih.gov/38719310/) BMJ Open
 
-- 86\. Murphy SA, **Bellavia A**. (Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist.](https://pubmed.ncbi.nlm.nih.gov/39250539/) Circulation
+- 86\. Murphy SA, **Bellavia A**. [Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist.](https://pubmed.ncbi.nlm.nih.gov/39250539/) Circulation
 
 - 85\. Rotem RS, **Bellavia A**, Paganoni S, Weisskopf MG. [Medication use and risk of amyotrophic lateral sclerosis: using machine learning for an exposome-wide screen of a large clinical database](https://www.tandfonline.com/doi/full/10.1080/21678421.2024.2320878). Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration
 
