@@ -49,6 +49,10 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
+- 96\. **Bellavia A**, Murphy SA. Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation. Circulation - in press
+ 
+- 95\. **Bellavia A**, Guo M, Murphy S. [Multiple Imputation Approaches for Missing Time-to-Event Outcomes with Informative Censoring: Practical Considerations from a Simulation Study Based on Real Data.](https://www.medrxiv.org/content/10.1101/2024.11.18.24317244v1) medRxiv pre-print
+ 
 - 94\. Varik I, Zou R, **Bellavia A**, Rosenberg K, Sjunnesson Y, Hallberg I, Holte J, Lenters V, Van Duursen M, Pedersen M, Svingen T, Vermeulen R, Salumets A, Damdimopoulou P, Velthut-Meikas A. [Reduced ovarian cholesterol and steroid biosynthesis along with increased inflammation are associated with high DEHP metabolite levels in human ovarian follicular fluids.](https://www.sciencedirect.com/science/article/pii/S0160412024005464) Environment International
 
 - 93\. **Bellavia A**, Murphy SA. [Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations.](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.124.069857) Circulation
