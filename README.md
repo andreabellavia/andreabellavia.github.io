@@ -39,7 +39,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 ## Teaching
 
 - Harvard T.H. Chan School of Public Health - EPI236: Analytic Issues of Clinical Epidemiology, [Summer Program in Clinical Effectiveness](https://www.hsph.harvard.edu/clinical-effectiveness) (2024-)
-- Harvard T.H. Chan School of Public Health - <a href="online_lastversion_pdf.pdf">EH245: Statistical Methods for Environmental Mixtures and Exposome Research</a> (former EH550) (2019-)
+- Harvard T.H. Chan School of Public Health - [EH245: Statistical Methods for Environmental Mixtures and Exposome Research](https://link.springer.com/book/9783031789861) (2019-)
 - [Summer School on Modern Methods in Biostatistics and Epidemiology - Mediation Analysis](http://www.biostatepi.org) (2018-)
 - Harvard T. H. Chan School of Public Health - BST223: Applied Survival Analysis (2018-2020)
 
