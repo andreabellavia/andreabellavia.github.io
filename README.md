@@ -49,6 +49,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
+- 97\. Nogueira A, Kalil F, Tramujas L, Felix N, Godoi A, Miyawaki IA, **Bellavia A**, Fernandes GC, Moura FA, Cardoso R, D'Avila A. A Bayesian Interpretation of CABANA and Other Randomized Controlled Trials for Catheter Ablation in Patients With Atrial Fibrillation. Journal of Cardiovascular Electrophysiology - in press
+
 - 96\. **Bellavia A**, Murphy SA. Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation. Circulation - in press
  
 - 95\. **Bellavia A**, Guo M, Murphy S. [Multiple Imputation Approaches for Missing Time-to-Event Outcomes with Informative Censoring: Practical Considerations from a Simulation Study Based on Real Data.](https://www.medrxiv.org/content/10.1101/2024.11.18.24317244v1) (medRxiv preprint, not peer-reviewed)
