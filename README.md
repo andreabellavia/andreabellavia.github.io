@@ -49,6 +49,8 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 **2024**
 
 
+- 98\. **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials. Contemporary Clinical Trials - in press
+
 - 97\. Nogueira A, Kalil F, Tramujas L, Felix N, Godoi A, Miyawaki IA, **Bellavia A**, Fernandes GC, Moura FA, Cardoso R, D'Avila A. A Bayesian Interpretation of CABANA and Other Randomized Controlled Trials for Catheter Ablation in Patients With Atrial Fibrillation. Journal of Cardiovascular Electrophysiology - in press
 
 - 96\. **Bellavia A**, Murphy SA. Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation. Circulation - in press
