@@ -1,1 +1,10 @@
+title: Your Site Title
+description: A short description of your site
 theme: jekyll-theme-leap-day
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications"
