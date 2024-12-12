@@ -56,4 +56,4 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 - Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF.](https://pubmed.ncbi.nlm.nih.gov/39230543/) Journal of the American College of Cardiology
 
-[**Full list**](https://andreabellavia.github.io/publications/)
+**Full list**: [link](https://andreabellavia.github.io/publications/)
