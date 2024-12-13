@@ -48,7 +48,7 @@ Twitter: [@andreabellavia](https://twitter.com/andreabellavia?lang=en)
 
 **Recent Publications**
 
-- **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials. Contemporary Clinical Trials - in press
+- **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. [Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials.](https://www.sciencedirect.com/science/article/abs/pii/S1551714424003616) Contemporary Clinical Trials - in press
 
 - **Bellavia A**, Murphy SA. Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation. Circulation - in press
  
