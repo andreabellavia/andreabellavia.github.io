@@ -4,7 +4,6 @@ title: _
 permalink: /presentations/
 ---
 
-Open [Some title here](pdfs/Bellavia_CSP2023_final.pdf)
 
 - <a href="pdfs/presentations/2024_03_13_imputations_ENAR_final.pdf">A Comparison of Approaches for Missing Outcome Data in RCT </a>, ENAR Spring Meeting, March 2024
 
