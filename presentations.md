@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 
 
-- [A Comparison of Approaches for Missing Outcome Data in RCT](pdfs/p2024_03_13_imputations_ENAR_final.pdf), ENAR Spring Meeting, March 2024
+- [A Comparison of Approaches for Missing Outcome Data in RCT](pdfs/2024_03_13_imputations_ENAR_final.pdf), ENAR Spring Meeting, March 2024
 
 - [Evaluating and presenting complex interactions in clinical research](pdfs/Bellavia_CSP2023_final.pdf), ASA Conference on Statistical Practice, February 2023
 
