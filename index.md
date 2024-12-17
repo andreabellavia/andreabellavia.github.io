@@ -33,7 +33,7 @@ My research focuses on the application of statistical and machine learning appro
 
 [Statistical Methods for Environmental Mixtures: A Primer in Environmental Epidemiology](https://link.springer.com/book/9783031789861). Springer, 2024
 
-- Accompany R material is available [here](https://github.com/andreabellavia/statsmixtures)
+Accompanying R material available [here](https://github.com/andreabellavia/statsmixtures)
 
 ## Teaching
 
