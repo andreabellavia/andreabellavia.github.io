@@ -5,6 +5,10 @@ permalink: /presentations/
 ---
 
 
+- [Estimating and Presenting Nonlinear and Interaction Effects with Restricted Cubic Splines](pdfs/2025_01_29_catalyst_Bellavia_.pdf), Harvard Catalyst, January 2025
+
+- [Statistical Approaches for Environmental Mixtures and Exposome-Wide Research](pdfs/2025_01_channing.pdf), Channing Division of Network Medicine, Beigham and Women;s Hospital, January 2025
+
 - [A Comparison of Approaches for Missing Outcome Data in RCT](pdfs/2024_03_13_imputations_ENAR_final.pdf), ENAR Spring Meeting, March 2024
 
 - [Evaluating and presenting complex interactions in clinical research](pdfs/Bellavia_CSP2023_final.pdf), ASA Conference on Statistical Practice, February 2023
