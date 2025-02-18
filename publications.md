@@ -8,7 +8,7 @@ permalink: /publications/
 **2024**
 
 
-- 96\. **Bellavia A**, Murphy SA. Clinical Interpretation of Statistical Interaction. Circulation - in press
+- 99\. **Bellavia A**, Murphy SA. Clinical Interpretation of Statistical Interaction. Circulation - in press
 
 - 98\. **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. [Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials.](https://www.sciencedirect.com/science/article/abs/pii/S1551714424003616) Contemporary Clinical Trials
 
