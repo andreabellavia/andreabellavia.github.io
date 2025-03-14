@@ -17,7 +17,7 @@ permalink: /publications/
 
 - 96\. **Bellavia A**, Murphy SA. [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956) Circulation
  
-- 95\. **Bellavia A**, Guo M, Murphy S. [Multiple Imputation Approaches for Missing Time-to-Event Outcomes with Informative Censoring: Practical Considerations from a Simulation Study Based on Real Data.](https://www.medrxiv.org/content/10.1101/2024.11.18.24317244v1) (medRxiv preprint, not peer-reviewed)
+- 95\. **Bellavia A**, Guo M, Murphy S. [Multiple Imputation Approaches for Missing Time-to-Event Outcomes with Informative Censoring: Practical Considerations from a Simulation Study Based on Real Data.](https://riviste.unimi.it/index.php/ebph/article/view/28145) Epidemiology Biostatistics and Public Health
  
 - 94\. Varik I, Zou R, **Bellavia A**, Rosenberg K, Sjunnesson Y, Hallberg I, Holte J, Lenters V, Van Duursen M, Pedersen M, Svingen T, Vermeulen R, Salumets A, Damdimopoulou P, Velthut-Meikas A. [Reduced ovarian cholesterol and steroid biosynthesis along with increased inflammation are associated with high DEHP metabolite levels in human ovarian follicular fluids.](https://www.sciencedirect.com/science/article/pii/S0160412024005464) Environment International
 
