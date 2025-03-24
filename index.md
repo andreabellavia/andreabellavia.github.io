@@ -19,11 +19,11 @@ My research focuses on the application of statistical and machine learning appro
 
 **Recent Publications**
 
+- **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
+
 - **Bellavia A**, Murphy SA. [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956) Circulation
  
  - **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. [Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials.](https://www.sciencedirect.com/science/article/abs/pii/S1551714424003616) Contemporary Clinical Trials
-
-- **Bellavia A**, Murphy SA. [Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations.](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.124.069857) Circulation
 
 - Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF.](https://pubmed.ncbi.nlm.nih.gov/39230543/) Journal of the American College of Cardiology
 
