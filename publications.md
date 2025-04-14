@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2025**
 
+- 100\. **Bellavia A**, Murphy SA. Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology. Circulation - in press 
+
 - 99\. **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
 
 **2024**
