@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2025**
 
+- 101\. Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines. International Journal of Epidemiology - in press 
+
 - 100\. **Bellavia A**, Murphy SA. Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology. Circulation - in press 
 
 - 99\. **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
