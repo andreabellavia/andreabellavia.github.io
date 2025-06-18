@@ -19,6 +19,8 @@ My research focuses on the application of statistical and machine learning appro
 
 **Recent Publications**
 
+- Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
+
 - **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
 
 - **Bellavia A**, Murphy SA. [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956) Circulation
