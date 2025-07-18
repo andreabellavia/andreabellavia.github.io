@@ -1,7 +1,7 @@
 ## About me
 
 - Investigator (Biostatistics) @ [TIMI Study Group](https://timi.org/) / [Brigham and Womens Hospital](https://www.brighamandwomens.org/)  
-- Lecturer at [Harvard Medical School](https://hms.harvard.edu/) / [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
+- Lecturer @ [Harvard Medical School](https://hms.harvard.edu/) / [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
 
 
 ## Research 
@@ -22,7 +22,7 @@ My research focuses on the application of statistical and machine learning appro
 
 - **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
 
-- **Bellavia A**, Murphy SA. [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956) Circulation
+- **Bellavia A**, Murphy SA. [Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073645) Circulation 
  
  - **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. [Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials.](https://www.sciencedirect.com/science/article/abs/pii/S1551714424003616) Contemporary Clinical Trials
 
