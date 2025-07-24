@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2025**
 
+- 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression. Kidney360 (in press)
+
 - 102\. Ponzano M, Rotem RS, **Bellavia A**. Complex methods for complex data: key considerations for interpretable and actionable results in exposome research. European Journal of Epidemiology (in press)
 
 - 101\. Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
