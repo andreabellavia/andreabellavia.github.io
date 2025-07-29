@@ -7,7 +7,7 @@ permalink: /publications/
 
 **2025**
 
-- 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression. Kidney360 (in press)
+- 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. [The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression.](https://journals.lww.com/kidney360/abstract/9900/the_associations_of_foot_process_effacement_with.720.aspx) Kidney360
 
 - 102\. Ponzano M, Rotem RS, **Bellavia A**. Complex methods for complex data: key considerations for interpretable and actionable results in exposome research. European Journal of Epidemiology (in press)
 
