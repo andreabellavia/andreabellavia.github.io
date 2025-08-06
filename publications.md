@@ -7,9 +7,11 @@ permalink: /publications/
 
 **2025**
 
+- 104\. Melloni GEM, Murphy SA, Sabatine MS, **Bellavia A**. Modern Computational Tools to Support the Implementation and Accessibility of Clinical Risk Scores. Journal of Clinical Epidemiology (In press)
+
 - 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. [The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression.](https://journals.lww.com/kidney360/abstract/9900/the_associations_of_foot_process_effacement_with.720.aspx) Kidney360
 
-- 102\. Ponzano M, Rotem RS, **Bellavia A**. Complex methods for complex data: key considerations for interpretable and actionable results in exposome research. European Journal of Epidemiology (in press)
+- 102\. Ponzano M, Rotem RS, **Bellavia A**. [Complex methods for complex data: key considerations for interpretable and actionable results in exposome research.](https://link.springer.com/article/10.1007/s10654-025-01281-2) European Journal of Epidemiology
 
 - 101\. Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
 
