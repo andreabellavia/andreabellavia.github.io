@@ -18,9 +18,9 @@ My research focuses on the application of statistical and machine learning appro
 
 **Recent Publications**
 
-- Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
+- Ponzano M, Rotem RS, **Bellavia A**. [Complex methods for complex data: key considerations for interpretable and actionable results in exposome research.](https://link.springer.com/article/10.1007/s10654-025-01281-2) European Journal of Epidemiology
 
-- **Bellavia A**, Murphy SA. [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644) Circulation 
+- Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
 
 - **Bellavia A**, Murphy SA. [Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073645) Circulation 
  
