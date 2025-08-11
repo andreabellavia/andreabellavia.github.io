@@ -7,7 +7,7 @@ permalink: /publications/
 
 **2025**
 
-- 104\. Melloni GEM, Murphy SA, Sabatine MS, **Bellavia A**. Modern Computational Tools to Support the Implementation and Accessibility of Clinical Risk Scores. Journal of Clinical Epidemiology (In press)
+- 104\. Melloni GEM, Murphy SA, Sabatine MS, **Bellavia A**. [Modern Computational Tools to Support the Implementation and Accessibility of Clinical Risk Scores.](https://www.jclinepi.com/article/S0895-4356(25)00260-4/abstract) Journal of Clinical Epidemiology
 
 - 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. [The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression.](https://journals.lww.com/kidney360/abstract/9900/the_associations_of_foot_process_effacement_with.720.aspx) Kidney360
 
