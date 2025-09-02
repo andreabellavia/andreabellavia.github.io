@@ -7,6 +7,10 @@ permalink: /publications/
 
 **2025**
 
+- 106\. Thiesmeier R, Haller PM, Patel SM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, **Bellavia A**. Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials. American Journal of Epidemiology - in press
+
+- 105\. Berg DD, Patel SM, Haller PM, Cange AL, Palazzolo MG, **Bellavia A**, Kuder JF, Desai AS, Inzucchi SE, McMurray JJ, O'Meara E, VVerma S, Belohlavek J, Drozdz J, Merkely B, Ogunniyi MO, Drasnar T, Izzo JL, Sarman B, McGinty JE, Ramanathan K, Mulkay AJ, Przybylski A, Ruff CT, O'Donoghue ML, Murphy SA, Sabatine MS, Wiviott SD. [Dapagliflozin in Patients Hospitalized for Heart Failure: Primary Results of the DAPA ACT HF-TIMI 68 Randomized Clinical Trial and Meta-Analysis of Sodium-Glucose Cotransporter-2 Inhibitors in Patients Hospitalized for Heart Failure.](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.125.076575) Circulation
+
 - 104\. Melloni GEM, Murphy SA, Sabatine MS, **Bellavia A**. [Modern Computational Tools to Support the Implementation and Accessibility of Clinical Risk Scores.](https://www.jclinepi.com/article/S0895-4356(25)00260-4/abstract) Journal of Clinical Epidemiology
 
 - 103\. Wittig M. Verma A, **Bellavia A**, Rosan S, Claudel SE, Surapaneni A, Palsson R, Srivastava A, Stillman IE, Henderson JM, Beck Jr LH, Hodgin JB, Grams ME, Rhee EP, Huber TB, Waikar SS, Schmidt IM. [The Associations of Foot Process Effacement with Kidney Histopathologic Lesions and Disease Progression.](https://journals.lww.com/kidney360/abstract/9900/the_associations_of_foot_process_effacement_with.720.aspx) Kidney360
