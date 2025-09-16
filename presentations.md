@@ -4,10 +4,11 @@ title: _
 permalink: /presentations/
 ---
 
+- [Defining Interpretability in Machine Learning for Epidemiology: Challenges and Paths Forward](pdfs/2025_09_16_KI_seminar.pdf), Karolinska Institutet, September 2025
 
 - [Estimating and Presenting Nonlinear and Interaction Effects with Restricted Cubic Splines](pdfs/2025_01_29_catalyst_Bellavia_.pdf), Harvard Catalyst, January 2025
 
-- [Statistical Approaches for Environmental Mixtures and Exposome-Wide Research](pdfs/2025_01_channing.pdf), Channing Division of Network Medicine, Beigham and Women;s Hospital, January 2025
+- [Statistical Approaches for Environmental Mixtures and Exposome-Wide Research](pdfs/2025_01_channing.pdf), Channing Division of Network Medicine, Beigham and Women's Hospital, January 2025
 
 - [A Comparison of Approaches for Missing Outcome Data in RCT](pdfs/2024_03_13_imputations_ENAR_final.pdf), ENAR Spring Meeting, March 2024
 
