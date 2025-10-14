@@ -18,15 +18,15 @@ My research focuses on the application of statistical and machine learning appro
 
 **Recent Publications**
 
+- Thiesmeier R, Haller PM, Patel SM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, **Bellavia A**. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials.](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162?searchresult=1) American Journal of Epidemiology
+
 - Ponzano M, Rotem RS, **Bellavia A**. [Complex methods for complex data: key considerations for interpretable and actionable results in exposome research.](https://link.springer.com/article/10.1007/s10654-025-01281-2) European Journal of Epidemiology
 
 - Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
 
 - **Bellavia A**, Murphy SA. [Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073645) Circulation 
  
- - **Bellavia A**, Ran X, Zimerman A, Antman EM, Giugliano RP, Morow DA, Murphy SA. [Unsupervised clustering approach to assess heterogeneity of treatment effects across patient phenotypes in randomized clinical trials.](https://www.sciencedirect.com/science/article/abs/pii/S1551714424003616) Contemporary Clinical Trials
 
-- Haller P, Jarolim P, Palazzolo MG, **Bellavia A**, Antman E, Eikelboom J, Granger C, Harrington J, Healey J, Hijazi Z, Patel M, Patel S, Ruff C, Wallentin L, Braunwald E, Giugliano RP, Morrow DA. [Heart failure risk assessment using biomarkers in patients with atrial fibrillation: Analysis from COMBINE-AF.](https://pubmed.ncbi.nlm.nih.gov/39230543/) Journal of the American College of Cardiology
 
 **Full list of publications**: [link](https://andreabellavia.github.io/publications/)
 
