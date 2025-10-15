@@ -18,6 +18,8 @@ My research focuses on the application of statistical and machine learning appro
 
 **Recent Publications**
 
+- Prasad S, Murphy SA, Morrow DA, Scirica BS, Sabatine MS, Berg DD, **Bellavia A**. [Application of Machine Learning and Deep Learning Approaches for Prediction Modeling with Time-To-Event Outcomes in Clinical Epidemiology. Methods Comparison and Practical Considerations for Generalizability and Interpretability.](https://www.sciencedirect.com/science/article/pii/S1047279725003096) Annals of Epidemiology
+
 - Thiesmeier R, Haller PM, Patel SM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, **Bellavia A**. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials.](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162?searchresult=1) American Journal of Epidemiology
 
 - Ponzano M, Rotem RS, **Bellavia A**. [Complex methods for complex data: key considerations for interpretable and actionable results in exposome research.](https://link.springer.com/article/10.1007/s10654-025-01281-2) European Journal of Epidemiology
