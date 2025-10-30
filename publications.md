@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2025**
 
+-108\. Adjei NK, Jonsson KR, Straatmann VS, **Bellavia A**, Yaya S, McGovern R, Kaner E, Wolfe I, Taylor-Robinson DC. Perceived emotional support mediates the association between childhood family adversity and adolescent mental health in the UK Millennium cohort. Scientific Reports - in press
+
 - 107\. Prasad S, Murphy SA, Morrow DA, Scirica BS, Sabatine MS, Berg DD, **Bellavia A**. [Application of Machine Learning and Deep Learning Approaches for Prediction Modeling with Time-To-Event Outcomes in Clinical Epidemiology. Methods Comparison and Practical Considerations for Generalizability and Interpretability.](https://www.sciencedirect.com/science/article/pii/S1047279725003096) Annals of Epidemiology
 
 - 106\. Thiesmeier R, Haller PM, Patel SM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, **Bellavia A**. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials.](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162?searchresult=1) American Journal of Epidemiology
