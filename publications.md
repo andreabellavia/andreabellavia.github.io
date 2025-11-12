@@ -7,9 +7,9 @@ permalink: /publications/
 
 **2025**
 
--110\. **Bellavia A**, Murphy SA. Linearity in regression models: meaning, implications, and how to handle it. Circulation - in press
+- 110\. **Bellavia A**, Murphy SA. Linearity in regression models: meaning, implications, and how to handle it. Circulation - in press
 
--109\. Perlino FL, Nipoti B, Williams PL, **Bellavia A**. A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection. Statistics in Medicine - in press
+- 109\. Perlino FL, Nipoti B, Williams PL, **Bellavia A**. A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection. Statistics in Medicine - in press
 
 - 108\. Adjei NK, Jonsson KR, Straatmann VS, **Bellavia A**, Yaya S, McGovern R, Kaner E, Wolfe I, Taylor-Robinson DC. Perceived emotional support mediates the association between childhood family adversity and adolescent mental health in the UK Millennium cohort. Scientific Reports - in press
 
