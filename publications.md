@@ -9,9 +9,9 @@ permalink: /publications/
 
 - 110\. **Bellavia A**, Murphy SA. Linearity in regression models: meaning, implications, and how to handle it. Circulation - in press
 
-- 109\. Perlino FL, Nipoti B, Williams PL, **Bellavia A**. A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection. Statistics in Medicine - in press
+- 109\.Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
-- 108\. Adjei NK, Jonsson KR, Straatmann VS, **Bellavia A**, Yaya S, McGovern R, Kaner E, Wolfe I, Taylor-Robinson DC. Perceived emotional support mediates the association between childhood family adversity and adolescent mental health in the UK Millennium cohort. Scientific Reports - in press
+- 108\. Adjei NK, Jonsson KR, Straatmann VS, **Bellavia A**, Yaya S, McGovern R, Kaner E, Wolfe I, Taylor-Robinson DC. [Perceived emotional support mediates the association between childhood family adversity and adolescent mental health in the UK Millennium cohort.](https://www.nature.com/articles/s41598-025-26853-w) Scientific Reports
 
 - 107\. Prasad S, Murphy SA, Morrow DA, Scirica BS, Sabatine MS, Berg DD, **Bellavia A**. [Application of Machine Learning and Deep Learning Approaches for Prediction Modeling with Time-To-Event Outcomes in Clinical Epidemiology. Methods Comparison and Practical Considerations for Generalizability and Interpretability.](https://www.sciencedirect.com/science/article/pii/S1047279725003096) Annals of Epidemiology
 
