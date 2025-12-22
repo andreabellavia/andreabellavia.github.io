@@ -7,7 +7,7 @@ permalink: /publications/
 
 **2025**
 
-- 110\. **Bellavia A**, Murphy SA. Linearity in regression models: meaning, implications, and how to handle it. Circulation - in press
+- 110\. **Bellavia A**, Murphy SA. [Linearity in regression models: meaning, implications, and how to handle it.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073647) Circulation
 
 - 109\.Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
