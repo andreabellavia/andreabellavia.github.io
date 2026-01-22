@@ -7,7 +7,7 @@ permalink: /publications/
 
 **2026**
 
-- 111\. Ponzano M, Signori A, Schiavetti I, Landi D, **Bellavia A**, Lavorgna L, Fantozzi R, Buttari F,  Di Sapio A, Malucchi S, Marinelli F, Battaglia MA, Vercellino M, Callari G, Frau K, Marfia GA, Tsantes E, Grasso MG, Surcinelli A, Zuliani L, Cordioli C, Sinisi L, Clerici R, Immovilli P, Stromillo ML, Mori L, Laroni A, Lanzillo R, Lugaresi A, Sormani MP. Abuse in individuals with multiple sclerosis: the SocialMS Italian study. Multiple Sclerosis and Related Disorders - in press 
+- 111\. Ponzano M, Signori A, Schiavetti I, Landi D, **Bellavia A**, Lavorgna L, Fantozzi R, Buttari F,  Di Sapio A, Malucchi S, Marinelli F, Battaglia MA, Vercellino M, Callari G, Frau K, Marfia GA, Tsantes E, Grasso MG, Surcinelli A, Zuliani L, Cordioli C, Sinisi L, Clerici R, Immovilli P, Stromillo ML, Mori L, Laroni A, Lanzillo R, Lugaresi A, Sormani MP. [Abuse in individuals with multiple sclerosis: the SocialMS Italian study.](https://www.sciencedirect.com/science/article/pii/S2211034826000520?lid=jua9g5tkojjo&utm_source=braze&utm_medium=email&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&DGCID=STMJ_220042_AUTH_SERV_PPUB) Multiple Sclerosis and Related Disorders 
 
 **2025**
 
