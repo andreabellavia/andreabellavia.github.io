@@ -3,41 +3,36 @@
 
 @import "{{ site.theme }}";
 
-/* Make pages less wide (more readable) */
-.wrapper, main {
-  max-width: 850px;
-  margin: auto;
+.page-title {
+  margin-bottom: 0.5rem;
 }
 
-/* Improve spacing */
-h1, h2, h3 {
-  margin-top: 1.8em;
+.page-intro {
+  color: #666;
+  margin-bottom: 2rem;
+  font-size: 1rem;
 }
 
-p {
-  line-height: 1.6;
-}
-
-/* Clean up lists (important for publications/presentations) */
-ul {
+.entry-list {
+  list-style: none;
   padding-left: 0;
 }
 
-li {
-  margin-bottom: 1rem;
+.entry-list li {
+  margin-bottom: 1.1rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid #eaeaea;
 }
 
-/* Add subtle separators for long lists */
-li:not(:last-child) {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.8rem;
+h2 {
+  margin-top: 2rem;
 }
 
-/* Make links nicer */
-a {
-  text-decoration: none;
+main, .container, .wrapper {
+  max-width: 850px;
 }
-
-a:hover {
-  text-decoration: underline;
+body {
+  max-width: 900px;
+  margin: auto;
+  background-color: #faeb7d;
 }
