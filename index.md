@@ -16,7 +16,7 @@ My research focuses on the application of statistical and machine learning appro
 
 ## Publications
 
-**Recent Publications**
+**Selected Recent Publications**
 
 - Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
@@ -28,6 +28,16 @@ My research focuses on the application of statistical and machine learning appro
 
 - Discacciati A, Palazzolo MG, Park JG, Melloni, GEM, Murphy SA, **Bellavia A**. [Estimating and Presenting Non-Linear Associations with Restricted Cubic Splines.](https://academic.oup.com/ije/article/54/4/dyaf088/8166023?searchresult=1) International Journal of Epidemiology
 
+**Circulation Series on Short Statistical Reviews for Cardiologists**
+
+- [Competing Risks in Cardiovascular Research: A Practical Perspective.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078513)
+- [Linearity in regression models: meaning, implications, and how to handle it.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073647)
+- [Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073645)
+- [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644)
+- [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956)
+- [Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations.](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.124.069857)
+- [Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist.](https://pubmed.ncbi.nlm.nih.gov/39250539/)
+- [Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.123.068037)
 
 **Full list of publications**: [link](https://andreabellavia.github.io/publications/)
 
