@@ -13,6 +13,7 @@ My research focuses on the application of statistical and machine learning appro
 - [R, SAS, and Stata functions](https://github.com/andreabellavia/RCSplines) to incorporate non-linear and non-additive effects in regression models with restricted cubic splines
 - [interactionRCS:](https://github.com/gmelloni/interactionRCS) R functions to smoothly plot the effect of a  predictor of interest over levels of a second continuous covariate after specifying flexible interactions in regression models
 - [med4way:](https://pubmed.ncbi.nlm.nih.gov/30452641/) a Stata command for estimating the 4-way decomposition of the total effect in mediation analysis
+- [wqsreg:]([https://pubmed.ncbi.nlm.nih.gov/30452641/](https://github.com/PonzanoMarta/wqsreg)) a Stata command for estimating Weighted Quantile Sum regression for continuous, binary, and count outcomes
 
 ## Publications
 
