@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-title {
+  margin-bottom: 0.5rem;
+}
+
+.page-intro {
+  color: #666;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.entry-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.entry-list li {
+  margin-bottom: 1.1rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+main, .container, .wrapper {
+  max-width: 850px;
+}
