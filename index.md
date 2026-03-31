@@ -31,12 +31,19 @@ My research focuses on the application of statistical and machine learning appro
 **Circulation Series on Short Statistical Reviews for Cardiologists**
 
 - [Competing Risks in Cardiovascular Research: A Practical Perspective.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078513)
+   
 - [Linearity in regression models: meaning, implications, and how to handle it.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073647)
+
 - [Confounders, effect modifiers, mediators. Dealing with 'third variables' in cardiovascular epidemiology.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073645)
+
 - [Clinical Interpretation of Statistical Interaction.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073644)
+
 - [Cox Regression Model in Clinical Research: Overview of Key Properties and Interpretation.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072956)
+
 - [Heterogeneity of Treatment Effects in Clinical Trials: Overview of Multivariable Approaches and Practical Recommendations.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.069857)
+
 - [Non-inferiority Clinical Trials: Overview for the Clinical Cardiologist.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.068928)
+
 - [Summarizing Primary Results in Clinical Trials with a Time-to-event Endpoint: Complementing Different Measures for a Comprehensive Assessment of Treatment Effect.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.123.068037)
 
 **Full list of publications**: [link](https://andreabellavia.github.io/publications/)
