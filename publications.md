@@ -7,6 +7,10 @@ permalink: /publications/
 
 **2026**
 
+- 115\. Al Said S, **Bellavia A**, Braunwald E, Hylek EM, Palazzolo MG, Hwanhee H, Antman EM, Carnicelli AP, Eikelboom JW, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Heterogeneity of Treatment Effect of DOACs versus Warfarin in Atrial Fibrillation. JACC: Advances - in press
+
+- 114\. Al Said S, Braunwald E, Hylek EM, Palazzolo MG, **Bellavia A**, Antman EM, Carnicelli AP, Eikelboom JW, Connolly S, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Outcomes With Warfarin in Atrial Fibrillation: Individual Patient Data Analysis From Four Randomized Trials. JACC: Advances - in press
+
 - 113\. Murphy SA, **Bellavia A**. Total Event Analysis in Cardiovascular Outcome Trials: Approaches and Interpretation. Circulation - in press
 
 - 112\. **Bellavia A**, Murphy SA. [Competing Risks in Cardiovascular Research: A Practical Perspective.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078513) Circulation
