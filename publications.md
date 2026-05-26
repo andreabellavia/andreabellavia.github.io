@@ -23,7 +23,7 @@ permalink: /publications/
 
 - 110\. **Bellavia A**, Murphy SA. [Linearity in regression models: meaning, implications, and how to handle it.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073647) Circulation
 
-- 109\.Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
+- 109\. Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
 - 108\. Adjei NK, Jonsson KR, Straatmann VS, **Bellavia A**, Yaya S, McGovern R, Kaner E, Wolfe I, Taylor-Robinson DC. [Perceived emotional support mediates the association between childhood family adversity and adolescent mental health in the UK Millennium cohort.](https://www.nature.com/articles/s41598-025-26853-w) Scientific Reports
 
