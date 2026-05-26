@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2026**
 
+- 116\. Ponzano M, Renzetti S, Gennings C, **Bellavia A**. Wqsreg: a Stata command for Weighted Quantile Sum regression.  European Journal of Epidemiology - in press
+
 - 115\. Al Said S, **Bellavia A**, Braunwald E, Hylek EM, Palazzolo MG, Hwanhee H, Antman EM, Carnicelli AP, Eikelboom JW, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Heterogeneity of Treatment Effect of DOACs versus Warfarin in Atrial Fibrillation. JACC: Advances - in press
 
 - 114\. Al Said S, Braunwald E, Hylek EM, Palazzolo MG, **Bellavia A**, Antman EM, Carnicelli AP, Eikelboom JW, Connolly S, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Outcomes With Warfarin in Atrial Fibrillation: Individual Patient Data Analysis From Four Randomized Trials. JACC: Advances - in press
