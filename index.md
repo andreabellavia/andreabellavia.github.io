@@ -31,6 +31,8 @@ My research focuses on the application of statistical and machine learning appro
 
 **Circulation Series on Short Statistical Reviews for Cardiologists**
 
+- [Total Event Analysis in Cardiovascular Outcome Trials: Approaches and Interpretation.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078514)
+
 - [Competing Risks in Cardiovascular Research: A Practical Perspective.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078513)
    
 - [Linearity in regression models: meaning, implications, and how to handle it.](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.125.073647)
