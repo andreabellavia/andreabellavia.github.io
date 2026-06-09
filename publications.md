@@ -13,7 +13,7 @@ permalink: /publications/
 
 - 114\. Al Said S, Braunwald E, Hylek EM, Palazzolo MG, **Bellavia A**, Antman EM, Carnicelli AP, Eikelboom JW, Connolly S, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Outcomes With Warfarin in Atrial Fibrillation: Individual Patient Data Analysis From Four Randomized Trials. JACC: Advances - in press
 
-- 113\. Murphy SA, **Bellavia A**. Total Event Analysis in Cardiovascular Outcome Trials: Approaches and Interpretation. Circulation - in press
+- 113\. Murphy SA, **Bellavia A**. [Total Event Analysis in Cardiovascular Outcome Trials: Approaches and Interpretation.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078514) Circulation
 
 - 112\. **Bellavia A**, Murphy SA. [Competing Risks in Cardiovascular Research: A Practical Perspective.](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.126.078513) Circulation
 
