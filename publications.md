@@ -7,6 +7,9 @@ permalink: /publications/
 
 **2026**
 
+- 117\. Berg DD, Vaduganathan M, Docherty KF, **Bellavia A**, Murphy SA, Claggett BL, Desai AS, Inzucchi SE, Patel SM, Wiviott SD, Solomon SD, McMurray JJ, Sabatine MS. Dapagliflozin in Patients with Heart Failure Across the Care Spectrum:
+A Meta-Analysis of DAPA-HF, DELIVER, and DAPA ACT HF-TIMI 68. JACC: Heart Failure - in press
+
 - 116\. Ponzano M, Renzetti S, Gennings C, **Bellavia A**. Wqsreg: a Stata command for Weighted Quantile Sum regression.  European Journal of Epidemiology - in press 
 
 - 115\. Al Said S, **Bellavia A**, Braunwald E, Hylek EM, Palazzolo MG, Hwanhee H, Antman EM, Carnicelli AP, Eikelboom JW, Granger CB, Patel MR, Wallentin L, Ruff CT, Giugliano RP. Heterogeneity of Treatment Effect of DOACs versus Warfarin in Atrial Fibrillation. JACC: Advances - in press
