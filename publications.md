@@ -7,7 +7,7 @@ permalink: /publications/
 
 **2026**
 
-- 118\. Ripamonti E, Haep J, Grande G, **Bellavia A**, Rizzuto D, Lennartsson C. The role of disadvantaged childhood conditions on cognitive function and disability in late life: Findings from a Swedish longitudinal study. Journal of Clinical and Experimental Neuropsychology - in press
+- 118\. Ripamonti E, Haep J, Grande G, **Bellavia A**, Rizzuto D, Lennartsson C. [The role of disadvantaged childhood conditions on cognitive function and disability in late life: Findings from a Swedish longitudinal study.](https://www.tandfonline.com/doi/full/10.1080/13803395.2026.2697735) Journal of Clinical and Experimental Neuropsychology
 
 - 117\. Berg DD, Vaduganathan M, Docherty KF, **Bellavia A**, Murphy SA, Claggett BL, Desai AS, Inzucchi SE, Patel SM, Wiviott SD, Solomon SD, McMurray JJ, Sabatine MS. Dapagliflozin in Patients with Heart Failure Across the Care Spectrum:
 A Meta-Analysis of DAPA-HF, DELIVER, and DAPA ACT HF-TIMI 68. JACC: Heart Failure - in press
