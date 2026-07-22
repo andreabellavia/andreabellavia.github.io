@@ -7,8 +7,8 @@ permalink: /publications/
 
 **2026**
 
-- 119\. Thiesmeier R, Park JG, Patel SM, Murphy SA, Orsini N, Morrow DA, **Bellavia A**. Missing Lactate Values in Critical Care Registries: 
-A Multiple Imputation Framework for Cardiogenic Shock Research. Journal of Clinical Epidemiology - in press
+- 119\. Thiesmeier R, Park JG, Patel SM, Murphy SA, Orsini N, Morrow DA, **Bellavia A**. [Missing Lactate Values in Critical Care Registries: 
+A Multiple Imputation Framework for Cardiogenic Shock Research.](https://www.sciencedirect.com/science/article/pii/S0895435626003021) Journal of Clinical Epidemiology
 
 - 118\. Ripamonti E, Haep J, Grande G, **Bellavia A**, Rizzuto D, Lennartsson C. [The role of disadvantaged childhood conditions on cognitive function and disability in late life: Findings from a Swedish longitudinal study.](https://www.tandfonline.com/doi/full/10.1080/13803395.2026.2697735) Journal of Clinical and Experimental Neuropsychology
 
