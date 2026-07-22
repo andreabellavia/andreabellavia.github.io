@@ -19,6 +19,9 @@ My research focuses on the application of statistical and machine learning appro
 
 **Selected Recent Publications**
 
+- Thiesmeier R, Park JG, Patel SM, Murphy SA, Orsini N, Morrow DA, **Bellavia A**. [Missing Lactate Values in Critical Care Registries: 
+A Multiple Imputation Framework for Cardiogenic Shock Research.](https://www.sciencedirect.com/science/article/pii/S0895435626003021) Journal of Clinical Epidemiology
+
 - Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
 - Prasad S, Murphy SA, Morrow DA, Scirica BS, Sabatine MS, Berg DD, **Bellavia A**. [Application of Machine Learning and Deep Learning Approaches for Prediction Modeling with Time-To-Event Outcomes in Clinical Epidemiology. Methods Comparison and Practical Considerations for Generalizability and Interpretability.](https://www.sciencedirect.com/science/article/pii/S1047279725003096) Annals of Epidemiology
