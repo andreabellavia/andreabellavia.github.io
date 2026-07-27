@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2026**
 
+- 120\. Ponzano M, Signori A, Schiavetti I, Landi D, **Bellavia A**, Lavorgna L, Fantozzi R, Buttari F,  Di Sapio A, Malucchi S, Marinelli F, Battaglia MA, Vercellino M, Callari G, Frau K, Marfia GA, Tsantes E, Grasso MG, Surcinelli A, Zuliani L, Cordioli C, Sinisi L, Clerici R, Immovilli P, Stromillo ML, Mori L, Laroni A, Lanzillo R, Lugaresi A, Sormani MP. [The impact of multiple sclerosis on social determinants of health: results from the SocialMS study.](https://www.sciencedirect.com/science/article/pii/S2211034826004372) Multiple Sclerosis and Related Disorders
+
 - 119\. Thiesmeier R, Park JG, Patel SM, Murphy SA, Orsini N, Morrow DA, **Bellavia A**. [Missing Lactate Values in Critical Care Registries: 
 A Multiple Imputation Framework for Cardiogenic Shock Research.](https://www.sciencedirect.com/science/article/pii/S0895435626003021) Journal of Clinical Epidemiology
 
