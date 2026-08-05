@@ -1,7 +1,7 @@
 ## About me
 
 - Investigator (Biostatistics) @ [TIMI Study Group](https://timi.org/) / [Brigham and Womens Hospital](https://www.brighamandwomens.org/)  
-- Lecturer @ [Harvard Medical School](https://hms.harvard.edu/) / [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
+- Assistant Professor @ [Harvard Medical School](https://hms.harvard.edu/) / [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu)
 
 
 ## Research 
