@@ -19,14 +19,14 @@ My research focuses on the application of statistical and machine learning appro
 
 **Selected Recent Publications**
 
+- Giugliano RP, Bohula EA, **Bellavia A**, De Ferrari GM, Leiter A, Nicolau JC, Bhatia AK, Murphy SA, Liu L, Wang H, Blaha V, Erglis A, Ferreira J, Goudev A, Jensen HK, Gabor Kiss R, Montalescot G, Parkhomenko A, Sattar N, Sinnaeve P, Slapikas R, da Silva Lima GP, Sabatine MS on behalf of the VESALIUS-CV Investigators. [Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.126.082436). Circulation
+
 - Thiesmeier R, Park JG, Patel SM, Murphy SA, Orsini N, Morrow DA, **Bellavia A**. [Missing Lactate Values in Critical Care Registries: 
 A Multiple Imputation Framework for Cardiogenic Shock Research.](https://www.sciencedirect.com/science/article/pii/S0895435626003021) Journal of Clinical Epidemiology
 
 - Perlino FL, Nipoti B, Williams PL, **Bellavia A**. [A Bayesian Parametric and Nonparametric Approach for the Imputation of Multivariate Left-Censored Data due to Limit of Detection.](https://pubmed.ncbi.nlm.nih.gov/41309014/) Statistics in Medicine
 
 - Prasad S, Murphy SA, Morrow DA, Scirica BS, Sabatine MS, Berg DD, **Bellavia A**. [Application of Machine Learning and Deep Learning Approaches for Prediction Modeling with Time-To-Event Outcomes in Clinical Epidemiology. Methods Comparison and Practical Considerations for Generalizability and Interpretability.](https://www.sciencedirect.com/science/article/pii/S1047279725003096) Annals of Epidemiology
-
-- Thiesmeier R, Haller PM, Patel SM, Morrow DA, Murphy SA, O'Donoghue ML, Sabatine MS, Scirica BS, Bhatt DL, Orsini N, **Bellavia A**. [Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large cardiovascular trials.](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf226/8280162?searchresult=1) American Journal of Epidemiology
 
 - Ponzano M, Rotem RS, **Bellavia A**. [Complex methods for complex data: key considerations for interpretable and actionable results in exposome research.](https://link.springer.com/article/10.1007/s10654-025-01281-2) European Journal of Epidemiology
 
