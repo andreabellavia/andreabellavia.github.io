@@ -7,6 +7,8 @@ permalink: /publications/
 
 **2026**
 
+- 123\. Kaur G, Small AM, **Bellavia A**, Burns JA, Chiu N, Ginder CR, Gibson KM, Jarolim P, Lopes MS, Miller M, Patel SM, Singal S, Zamani S, Bohula EA, Morrow DA, Berg DD. DPP3 as a Biomarker in Patients with Cardiovascular Critical Illness. Journal of Cardiac Failure - in press  
+
 - 122\. Giugliano RP, Bohula EA, **Bellavia A**, De Ferrari GM, Leiter A, Nicolau JC, Bhatia AK, Murphy SA, Liu L, Wang H, Blaha V, Erglis A, Ferreira J, Goudev A, Jensen HK, Gabor Kiss R, Montalescot G, Parkhomenko A, Sattar N, Sinnaeve P, Slapikas R, da Silva Lima GP, Sabatine MS on behalf of the VESALIUS-CV Investigators. [Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.126.082436). Circulation
 
 - 121\. Nilsen MM, **Bellavia A**, Rylander C, Charles D, Huber S, Haugdahl Nøst T, Wilsgaard T, Sandanger TM, James-Todd T, Berg V. [Associations between serum persistent organic pollutants and type 2 diabetes in a multipollutant analysis using repeated measurements in The Tromsø Study.](https://www.frontiersin.org/journals/environmental-health/articles/10.3389/fenvh.2026.1946520/abstract) Frontiers in Environmental Epidemiology
